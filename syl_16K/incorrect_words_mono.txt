@@ -1,0 +1,283 @@
+22hkz, monophones, 750
+
+Aligned transcription: ಅದೇ_.lab vs ಅದೇ_.rec
+ LAB: ಅದೇ       
+ REC: ಆರನೇ 
+Aligned transcription: ಆ_.lab vs ಆ_.rec
+ LAB: ಆ          
+ REC: ಹಾಗು 
+Aligned transcription: ಆಫ್ಘಾನಿಸ್ಥಾನ್_.lab vs ಆಫ್ಘಾನಿಸ್ಥಾನ್_.rec
+ LAB: ಆಫ್ಘಾನಿಸ್ಥಾನ್ 
+ REC: ರಾಷ್ಟ್ರಿಯನಿಸಂ 
+Aligned transcription: ಆರು_.lab vs ಆರು_.rec
+ LAB: ಆರು                
+ REC: ತಾಲ್ಲೂಕು 
+Aligned transcription: ಆಲೂಗೆಡ್ಡೆ_.lab vs ಆಲೂಗೆಡ್ಡೆ_.rec
+ LAB: ಆಲೂಗೆಡ್ಡೆ 
+ REC: ಆಳಿದೆ             
+Aligned transcription: ಇಂಡಿಯನ್_.lab vs ಇಂಡಿಯನ್_.rec
+ LAB: ಇಂಡಿಯನ್ 
+ REC: ಇಂಡಿಯಾ    
+Aligned transcription: ಇವೆ_.lab vs ಇವೆ_.rec
+ LAB: ಇವೆ    
+ REC: ಹೀಗೆ 
+Aligned transcription: ಈಗಿನ_.lab vs ಈಗಿನ_.rec
+ LAB: ಈಗಿನ    
+ REC: ಠೀಕಿನ 
+Aligned transcription: ಉಡುಪಿ_.lab vs ಉಡುಪಿ_.rec
+ LAB: ಉಡುಪಿ                
+ REC: ಪೋರ್ಚುಗೀಸ್ 
+Aligned transcription: ಉತ್ತರ_.lab vs ಉತ್ತರ_.rec
+ LAB: ಉತ್ತರ 
+ REC: ಮುಖ       
+Aligned transcription: ಉತ್ತರದ_.lab vs ಉತ್ತರದ_.rec
+ LAB: ಉತ್ತರದ       
+ REC: ಪುತ್ರನಾದ 
+Aligned transcription: ಉದ್ದಕ್ಕೂ_.lab vs ಉದ್ದಕ್ಕೂ_.rec
+ LAB: ಉದ್ದಕ್ಕೂ    
+ REC: ತೊಂಭತ್ತು 
+Aligned transcription: ಉಪ_.lab vs ಉಪ_.rec
+ LAB: ಉಪ          
+ REC: ಪೂರ್ವ 
+Aligned transcription: ಉರುಗನಹಳ್ಳಿ_.lab vs ಉರುಗನಹಳ್ಳಿ_.rec
+ LAB: ಉರುಗನಹಳ್ಳಿ 
+ REC: ವರ್ಗದಲ್ಲಿ    
+Aligned transcription: ಉಳಿದ_.lab vs ಉಳಿದ_.rec
+ LAB: ಉಳಿದ 
+ REC: ಕೂಡ    
+Aligned transcription: ಎಂದಿದ್ದು_.lab vs ಎಂದಿದ್ದು_.rec
+ LAB: ಎಂದಿದ್ದು 
+ REC: ಕೇಂದ್ರ       
+Aligned transcription: ಎಂದು_.lab vs ಎಂದು_.rec
+ LAB: ಎಂದು       
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: ಎಂಬುದರ_.lab vs ಎಂಬುದರ_.rec
+ LAB: ಎಂಬುದರ          
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಎಂಬುದರಿಂದ_.lab vs ಎಂಬುದರಿಂದ_.rec
+ LAB: ಎಂಬುದರಿಂದ 
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: ಎಂಭತ್ತು 
+ REC: ಒಂಭತ್ತು 
+Aligned transcription: ಎತ್ತರ_.lab vs ಎತ್ತರ_.rec
+ LAB: ಎತ್ತರ 
+ REC: ಖೇಚರ    
+Aligned transcription: ಎದ್ದಿರುವ_.lab vs ಎದ್ದಿರುವ_.rec
+ LAB: ಎದ್ದಿರುವ 
+ REC: ಏಕದೇವ          
+Aligned transcription: ಎರಡನೆಯ_.lab vs ಎರಡನೆಯ_.rec
+ LAB: ಎರಡನೆಯ 
+ REC: ಅಲ್ಲದೆ 
+Aligned transcription: ಎರಡನೇ_.lab vs ಎರಡನೇ_.rec
+ LAB: ಎರಡನೇ    
+ REC: ಘರ್ಷಣೆ 
+Aligned transcription: ಏಡಿಹುಣ್ಣು_.lab vs ಏಡಿಹುಣ್ಣು_.rec
+ LAB: ಏಡಿಹುಣ್ಣು 
+ REC: ಇಂದು                
+Aligned transcription: ಏಷ್ಯಾ_.lab vs ಏಷ್ಯಾ_.rec
+ LAB: ಏಷ್ಯಾ       
+ REC: ಏಷ್ಯಾವು 
+Aligned transcription: ಒಗ್ಗಟ್ಟು_.lab vs ಒಗ್ಗಟ್ಟು_.rec
+ LAB: ಒಗ್ಗಟ್ಟು 
+ REC: ಒಂಭತ್ತು    
+Aligned transcription: ಒಗ್ಗಿಕೊ_.lab vs ಒಗ್ಗಿಕೊ_.rec
+ LAB: ಒಗ್ಗಿಕೊ       
+ REC: ಹೊಂದಿದ್ದೂ 
+Aligned transcription: ಒಟ್ಟು_.lab vs ಒಟ್ಟು_.rec
+ LAB: ಒಟ್ಟು 
+ REC: ಒತ್ತು 
+Aligned transcription: ಕಣಿವೆ_.lab vs ಕಣಿವೆ_.rec
+ LAB: ಕಣಿವೆ 
+ REC: ಘಳಿಗೆ 
+Aligned transcription: ಕನ್ನಡ_.lab vs ಕನ್ನಡ_.rec
+ LAB: ಕನ್ನಡ 
+ REC: ಅನ್ನದ 
+Aligned transcription: ಕಾಳು_.lab vs ಕಾಳು_.rec
+ LAB: ಕಾಳು 
+ REC: ಆರು    
+Aligned transcription: ಕುಂದಾಪುರ_.lab vs ಕುಂದಾಪುರ_.rec
+ LAB: ಕುಂದಾಪುರ 
+ REC: ಮಾತ್ರ          
+Aligned transcription: ಕುಂದಾಪುರದ_.lab vs ಕುಂದಾಪುರದ_.rec
+ LAB: ಕುಂದಾಪುರದ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: ಕುಟುಂಬ_.lab vs ಕುಟುಂಬ_.rec
+ LAB: ಕುಟುಂಬ 
+ REC: ರಿಂದ       
+Aligned transcription: ಕುರಿತು_.lab vs ಕುರಿತು_.rec
+ LAB: ಕುರಿತು          
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: ಕೆಳದಿ_.lab vs ಕೆಳದಿ_.rec
+ LAB: ಕೆಳದಿ 
+ REC: ನದಿ       
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: ಕೊನೆಗೊಂಡ    
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: ಕ್ರಿಶನೇ_.lab vs ಕ್ರಿಶನೇ_.rec
+ LAB: ಕ್ರಿಶನೇ 
+ REC: ಘರ್ಷಣೆ    
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: ಖಂಡದದಕ್ಷಿಣ 
+ REC: ಖಂಡನಾಮತ          
+Aligned transcription: ಖಿನ್ನತೆ_.lab vs ಖಿನ್ನತೆ_.rec
+ LAB: ಖಿನ್ನತೆ 
+ REC: ಹಿಂದೆ       
+Aligned transcription: ಖುಷಿಪಡುವ_.lab vs ಖುಷಿಪಡುವ_.rec
+ LAB: ಖುಷಿಪಡುವ 
+ REC: ಶಿವ                
+Aligned transcription: ಖೂನಿ_.lab vs ಖೂನಿ_.rec
+ LAB: ಖೂನಿ 
+ REC: ಮೀ       
+Aligned transcription: ಖೈದು_.lab vs ಖೈದು_.rec
+ LAB: ಖೈದು 
+ REC: ಐದು    
+Aligned transcription: ಛಾತ್ರ_.lab vs ಛಾತ್ರ_.rec
+ LAB: ಛಾತ್ರ             
+ REC: ಚಾಲುಕ್ಯರು 
+Aligned transcription: ಛಿದ್ರ_.lab vs ಛಿದ್ರ_.rec
+ LAB: ಛಿದ್ರ 
+ REC: ಇದರ       
+Aligned transcription: ಜಿಲ್ಲಾ_.lab vs ಜಿಲ್ಲಾ_.rec
+ LAB: ಜಿಲ್ಲಾ 
+ REC: ಜೈನ          
+Aligned transcription: ಜೈನ್_.lab vs ಜೈನ್_.rec
+ LAB: ಜೈನ್ 
+ REC: ಜೈನ    
+Aligned transcription: ಝೋ_.lab vs ಝೋ_.rec
+ LAB: ಝೋ          
+ REC: ದೇಶವು 
+Aligned transcription: ಠಕ್ಕ_.lab vs ಠಕ್ಕ_.rec
+ LAB: ಠಕ್ಕ    
+ REC: ಮಾತ್ರ 
+Aligned transcription: ಠರಾವು_.lab vs ಠರಾವು_.rec
+ LAB: ಠರಾವು 
+ REC: ಹಲವು    
+Aligned transcription: ಢಕ್ಕೆ_.lab vs ಢಕ್ಕೆ_.rec
+ LAB: ಢಕ್ಕೆ       
+ REC: ಖಿನ್ನತೆ 
+Aligned transcription: ಢಾಲು_.lab vs ಢಾಲು_.rec
+ LAB: ಢಾಲು       
+ REC: ನಾಲ್ಕು 
+Aligned transcription: ಢಿಕ್ಕಿ_.lab vs ಢಿಕ್ಕಿ_.rec
+ LAB: ಢಿಕ್ಕಿ 
+ REC: ಸಿಖ್       
+Aligned transcription: ತುಂಗಭದ್ರಾ_.lab vs ತುಂಗಭದ್ರಾ_.rec
+ LAB: ತುಂಗಭದ್ರಾ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: ತೆಂಕಣ_.lab vs ತೆಂಕಣ_.rec
+ LAB: ತೆಂಕಣ    
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: ದಿಂದ_.lab vs ದಿಂದ_.rec
+ LAB: ದಿಂದ 
+ REC: ನಿಂದ 
+Aligned transcription: ದೀರ್ಘ_.lab vs ದೀರ್ಘ_.rec
+ LAB: ದೀರ್ಘ 
+ REC: ದಿಂದ    
+Aligned transcription: ಧಾರ್ಯಾ_.lab vs ಧಾರ್ಯಾ_.rec
+ LAB: ಧಾರ್ಯಾ 
+ REC: ನದಿಯ       
+Aligned transcription: ಧುಮುಕುವ_.lab vs ಧುಮುಕುವ_.rec
+ LAB: ಧುಮುಕುವ 
+ REC: ಏಕದೇವ       
+Aligned transcription: ಪುರಾತನ_.lab vs ಪುರಾತನ_.rec
+ LAB: ಪುರಾತನ 
+ REC: ಹೋರಾಟದ 
+Aligned transcription: ಪೂರ್ವಕ್ಕೆ_.lab vs ಪೂರ್ವಕ್ಕೆ_.rec
+ LAB: ಪೂರ್ವಕ್ಕೆ 
+ REC: ಒಲುಮೆ             
+Aligned transcription: ಪೌರಾಣಿಕ_.lab vs ಪೌರಾಣಿಕ_.rec
+ LAB: ಪೌರಾಣಿಕ 
+ REC: ವಾಣಿಜ್ಯ 
+Aligned transcription: ಪ್ರಮಾಣ_.lab vs ಪ್ರಮಾಣ_.rec
+ LAB: ಪ್ರಮಾಣ       
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: ಪ್ರಮುಖ_.lab vs ಪ್ರಮುಖ_.rec
+ LAB: ಪ್ರಮುಖ 
+ REC: ಪ್ರಮಾಣ 
+Aligned transcription: ಪ್ರಮುಖರು_.lab vs ಪ್ರಮುಖರು_.rec
+ LAB: ಪ್ರಮುಖರು 
+ REC: ತವರು             
+Aligned transcription: ಬಂದ_.lab vs ಬಂದ_.rec
+ LAB: ಬಂದ 
+ REC: ಕಾಲ 
+Aligned transcription: ಬೌದ್ಧ_.lab vs ಬೌದ್ಧ_.rec
+ LAB: ಬೌದ್ಧ 
+ REC: ಜೋಗದ    
+Aligned transcription: ಭಾಗಕ್ಕಿರುವ_.lab vs ಭಾಗಕ್ಕಿರುವ_.rec
+ LAB: ಭಾಗಕ್ಕಿರುವ 
+ REC: ಚಾಲುಕ್ಯರು    
+Aligned transcription: ಭಾರತ_.lab vs ಭಾರತ_.rec
+ LAB: ಭಾರತ       
+ REC: ಭಾರತವು 
+Aligned transcription: ಭೂಮಿಯಿಂದ_.lab vs ಭೂಮಿಯಿಂದ_.rec
+ LAB: ಭೂಮಿಯಿಂದ 
+ REC: ಮೇಲಿನ          
+Aligned transcription: ಮರ್ಧಿನಿ_.lab vs ಮರ್ಧಿನಿ_.rec
+ LAB: ಮರ್ಧಿನಿ 
+ REC: ನದಿಯು       
+Aligned transcription: ಮುಂದಿನ_.lab vs ಮುಂದಿನ_.rec
+ LAB: ಮುಂದಿನ 
+ REC: ಭೂಮಿಯ    
+Aligned transcription: ಮುಖ_.lab vs ಮುಖ_.rec
+ LAB: ಮುಖ    
+ REC: ಅನೇಕ 
+Aligned transcription: ಮುನ್ನಡೆಯನ್ನು_.lab vs ಮುನ್ನಡೆಯನ್ನು_.rec
+ LAB: ಮುನ್ನಡೆಯನ್ನು 
+ REC: ಆಂಗ್ರೆನ್ಗಳು    
+Aligned transcription: ಮುಸ್ಲಿಂ_.lab vs ಮುಸ್ಲಿಂ_.rec
+ LAB: ಮುಸ್ಲಿಂ             
+ REC: ಊಸ್ಟ್‌ಯರ್ಟ್ 
+Aligned transcription: ಮೇಲ್ಮೈ_.lab vs ಮೇಲ್ಮೈ_.rec
+ LAB: ಮೇಲ್ಮೈ    
+ REC: ನೇರವಾಗಿ 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: ಮೊಗ್ಗು 
+ REC: ನಾಲ್ಕು 
+Aligned transcription: ಮೊಘಲ್_.lab vs ಮೊಘಲ್_.rec
+ LAB: ಮೊಘಲ್ 
+ REC: ವೊದಲ    
+Aligned transcription: ಮೌರ್ಯ_.lab vs ಮೌರ್ಯ_.rec
+ LAB: ಮೌರ್ಯ    
+ REC: ಹಿಮಾಲಯ 
+Aligned transcription: ರಿಂದ_.lab vs ರಿಂದ_.rec
+ LAB: ರಿಂದ 
+ REC: ಜೈನ    
+Aligned transcription: ರೋರರ್_.lab vs ರೋರರ್_.rec
+ LAB: ರೋರರ್ 
+ REC: ರೋಗ       
+Aligned transcription: ವಿಜ್ಞಾನ_.lab vs ವಿಜ್ಞಾನ_.rec
+ LAB: ವಿಜ್ಞಾನ 
+ REC: ಏಷ್ಯಾದ    
+Aligned transcription: ಸಿಖ್_.lab vs ಸಿಖ್_.rec
+ LAB: ಸಿಖ್ 
+ REC: ಇವರು 
+Aligned transcription: ಸೀರ್_.lab vs ಸೀರ್_.rec
+ LAB: ಸೀರ್ 
+ REC: ಸಿಖ್ 
+Aligned transcription: ಸುವರ್ಣ_.lab vs ಸುವರ್ಣ_.rec
+ LAB: ಸುವರ್ಣ 
+ REC: ಒಣ             
+Aligned transcription: ಸೌಕರ್ಯವುಳ್ಳ_.lab vs ಸೌಕರ್ಯವುಳ್ಳ_.rec
+ LAB: ಸೌಕರ್ಯವುಳ್ಳ 
+ REC: ಸಸ್ತನಿಗಳ          
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: ಹದಿನೇಳನೆಯ 
+ REC: ಹದಿನೇಳನೇ 
+Aligned transcription: ಹದಿನೇಳನೇ_.lab vs ಹದಿನೇಳನೇ_.rec
+ LAB: ಹದಿನೇಳನೇ 
+ REC: ಹದಿನೈದನೆ    
+Aligned transcription: ಹನ್ನೊಂದು_.lab vs ಹನ್ನೊಂದು_.rec
+ LAB: ಹನ್ನೊಂದು 
+ REC: ನಾಲ್ಕು          
+Aligned transcription: ಹಿಂದು_.lab vs ಹಿಂದು_.rec
+ LAB: ಹಿಂದು 
+ REC: ಇಂದು    
+====================== HTK Results Analysis =======================
+  Date: Fri Jun  2 21:01:19 2017
+  Ref : testref.mlf
+  Rec : recount_mono.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=87.87 [H=659, S=91, N=750]
+WORD: %Corr=87.87, Acc=87.87 [H=659, D=0, S=91, I=0, N=750]
+===================================================================

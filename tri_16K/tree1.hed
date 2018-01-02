@@ -1,0 +1,162 @@
+RO 100 "stats"
+
+TR 0
+
+QS	"R_NonBoundary"			{ *+* }
+QS	"R_Silence"				{ *+sil }
+QS	"R_Short"				{ *+ಅ, *+ಇ, *+ಉ, *+ಋ, *+ಎ, *+ಒ }
+QS	"R_Long"				{ *+ಆ, *+ಈ, *+ಊ, *+ೠ, *+ಏ, *+ಓ }
+QS	"R_Dipthongs"			{ *+ಐ, *+ಔ }
+QS	"R_Vowels"				{ *+ಅ, *+ಇ, *+ಉ, *+ಋ, *+ಎ, *+ಒ, *+ಆ, *+ಈ, *+ಊ, *+ೠ, *+ಏ, *+ಓ, *+ಐ, *+ಔ }
+QS	"R_V-Central"			{ *+ಅ, *+ಆ }
+QS	"R_V-Back"				{ *+ಉ, *+ಊ, *+ಒ, *+ಓ }
+QS	"R_V-Front"				{ *+ಇ, *+ಈ, *+ಎ, *+ಏ }
+QS	"R_High"				{ *+ಇ, *+ಈ, *+ಉ, *+ಊ }
+QS	"R_Medium"				{ *+ಎ, *+ಏ, *+ಒ, *+ಓ }
+QS	"R_Low"					{ *+ಅ, *+ಆ }
+QS	"R_Stop"				{ }
+QS	"R_Veranl"				{ *+ಕ್, *+ಖ್, *+ಗ್, *+ಘ್ }
+QS	"R_Palatal"				{ *+ಚ್, *+ಛ್, *+ಜ್, *+ಝ್ }
+QS	"R_Retroflex"			{ *+ಟ್, *+ಠ್, *+ಡ್, *+ಢ್, *+ಣ್, *+ಷ್, *+ಳ್}
+QS	"R_Dental"				{ *+ತ್, *+ಥ್, *+ದ್, *+ಧ್, *+ನ್ }
+QS	"R_Labial"				{ *+ಪ್, *+ಫ್, *+ಬ್, *+ಭ್, *+ಮ್ }
+QS	"R_Pharyngeal"			{ *+ಹ್ }
+QS	"R_Apico-palatal"		{ *+ಯ್, *+ಶ್ }
+QS	"R_Aveolar"				{ *+ರ್, *+ಲ್, *+ಸ್ }
+QS	"R_Unaspirated-Voiced"	{ *+ಗ್, *+ಜ್, *+ಡ್, *+ದ್, *+ಬ್ }
+QS	"R_Aspirated-Voiced"	{ *+ಘ್, *+ಝ್, *+ಢ್, *+ಧ್, *+ಭ್ }
+QS	"R_Unaspirated-Unvoiced"	{ *+ಕ್, *+ಚ್, *+ಟ್, *+ತ್, *+ಪ್ }
+QS	"R_Aspirated-Unvoiced"	{ *+ಖ್, *+ಛ್, *+ಠ್, *+ಥ್, *+ಫ್ }
+QS	"R_Nasal"				{ *+ಣ್, *+ನ್, *+ಮ್ }
+QS	"R_Glides-Voiced"		{ *+ಯ್, *+ವ್ }
+QS	"R_Siblants-Voiced"		{ *+ಶ್, *+ಷ್, *+ಸ್}
+QS	"R_Siblants-Unvoiced"	{ }
+QS	"R_Fricatives-Voiceless"	{ *+ಹ್ }
+QS	"R_Laterals-Voiced"		{ *+ಲ್, *+ಳ್ }
+QS	"R_Continuants-Voiced"	{ *+ರ್ }
+QS 	"R_ಅ" 					{ *+ಅ }
+QS 	"R_ಆ" 					{ *+ಆ }
+QS 	"R_ಇ" 					{ *+ಇ }
+QS 	"R_ಈ" 					{ *+ಈ }
+QS 	"R_ಉ" 					{ *+ಉ }
+QS 	"R_ಊ" 					{ *+ಊ }
+QS 	"R_ಋ" 					{ *+ಋ }
+QS 	"R_ಎ" 					{ *+ಎ }
+QS 	"R_ಏ"					{ *+ಏ }
+QS 	"R_ಐ"					{ *+ಐ }
+QS 	"R_ಒ"					{ *+ಒ }
+QS 	"R_ಓ"					{ *+ಓ }
+QS 	"R_ಔ"					{ *+ಔ }
+QS 	"R_ಕ್"					{ *+ಕ್ }
+QS 	"R_ಖ್"					{ *+ಖ್ }
+QS 	"R_ಗ್"					{ *+ಗ್ }
+QS 	"R_ಘ್"					{ *+ಘ್ }
+QS 	"R_ಚ್"					{ *+ಚ್ }
+QS 	"R_ಛ್"					{ *+ಛ್ }
+QS 	"R_ಜ್"					{ *+ಜ್ }
+QS 	"R_ಝ್"					{ *+ಝ್ }
+QS 	"R_ಟ್"					{ *+ಟ್ }
+QS 	"R_ಠ್"					{ *+ಠ್ }
+QS 	"R_ಡ್"					{ *+ಡ್ }
+QS 	"R_ಢ್"					{ *+ಢ್ }
+QS 	"R_ಣ್"					{ *+ಣ್ }
+QS 	"R_ತ್"					{ *+ತ್ }
+QS 	"R_ಥ್"					{ *+ಥ್ }
+QS 	"R_ದ್"					{ *+ದ್ }
+QS 	"R_ಧ್"					{ *+ಧ್ }
+QS 	"R_ನ್"					{ *+ನ್ }
+QS 	"R_ಪ್"					{ *+ಪ್ }
+QS 	"R_ಫ್"					{ *+ಫ್ }
+QS 	"R_ಬ್"					{ *+ಬ್ }
+QS 	"R_ಭ್"					{ *+ಭ್ }
+QS 	"R_ಮ್"					{ *+ಮ್ }
+QS 	"R_ಯ್"					{ *+ಯ್ }
+QS 	"R_ರ್"					{ *+ರ್ }
+QS 	"R_ಲ್"					{ *+ಲ್ }
+QS 	"R_ಳ್"					{ *+ಳ್ }
+QS 	"R_ವ್"					{ *+ವ್ }
+QS 	"R_ಶ್"					{ *+ಶ್ }
+QS 	"R_ಷ್"					{ *+ಷ್ }
+QS 	"R_ಸ್"					{ *+ಸ್ }
+QS 	"R_ಹ್"					{ *+ಹ್ }
+QS 	"R_ೠ"					{ *+ೠ }
+QS	"L_NonBoundary"			{ *-* }
+QS	"L_Silence"				{ sil-* }
+QS	"L_Short"				{ ಅ-*, ಇ-*, ಉ-*, ಋ-*, ಎ-*, ಒ-* }
+QS	"L_Long"				{ ಆ-*, ಈ-*, ಊ-*, ೠ-*, ಏ-*, ಓ-* }
+QS	"L_Dipthongs"			{ ಐ-*, ಔ-* }
+QS	"L_Vowels"				{ ಅ-*, ಇ-*, ಉ-*, ಋ-*, ಎ-*, ಒ-*, ಆ-*, ಈ-*, ಊ-*, ೠ-*, ಏ-*, ಓ-*, ಐ-*, ಔ-* }
+QS	"L_V-Central"			{ ಅ-*, ಆ-* }
+QS	"L_V-Back"				{ ಉ-*, ಊ-*, ಒ-*, ಓ-* }
+QS	"L_V-Front"				{ ಇ-*, ಈ-*, ಎ-*, ಏ-* }
+QS	"L_High"				{ ಇ-*, ಈ-*, ಉ-*, ಊ-* }
+QS	"L_Medium"				{ ಎ-*, ಏ-*, ಒ-*, ಓ-* }
+QS	"L_Low"					{ ಅ-*, ಆ-* }
+QS	"L_Stop"				{ }
+QS	"L_Veranl"				{ ಕ್-*, ಖ್-*, ಗ್-*, ಘ್-* }
+QS	"L_Palatal"				{ ಚ್-*, ಛ್-*, ಜ್-*, ಝ್-* }
+QS	"L_Letroflex"			{ ಟ್-*, ಠ್-*, ಡ್-*, ಢ್-*, ಣ್-*, ಷ್-*, ಳ್-*}
+QS	"L_Dental"				{ ತ್-*, ಥ್-*, ದ್-*, ಧ್-*, ನ್-* }
+QS	"L_Labial"				{ ಪ್-*, ಫ್-*, ಬ್-*, ಭ್-*, ಮ್-* }
+QS	"L_Pharyngeal"			{ ಹ್-* }
+QS	"L_Apico-palatal"		{ ಯ್-*, ಶ್-* }
+QS	"L_Aveolar"				{ ರ್-*, ಲ್-*, ಸ್-* }
+QS	"L_Unaspirated-Voiced"	{ ಗ್-*, ಜ್-*, ಡ್-*, ದ್-*, ಬ್-* }
+QS	"L_Aspirated-Voiced"	{ ಘ್-*, ಝ್-*, ಢ್-*, ಧ್-*, ಭ್-* }
+QS	"L_Unaspirated-Unvoiced"	{ ಕ್-*, ಚ್-*, ಟ್-*, ತ್-*, ಪ್-* }
+QS	"L_Aspirated-Unvoiced"	{ ಖ್-*, ಛ್-*, ಠ್-*, ಥ್-*, ಫ್-* }
+QS	"L_Nasal"				{ ಣ್-*, ನ್-*, ಮ್-* }
+QS	"L_Glides-Voiced"		{ ಯ್-*, ವ್-* }
+QS	"L_Siblants-Voiced"		{ ಶ್-*, ಷ್-*, ಸ್-*}
+QS	"L_Siblants-Unvoiced"	{ }
+QS	"L_Fricatives-Voiceless"	{ ಹ್-* }
+QS	"L_Laterals-Voiced"		{ ಲ್-*, ಳ್-* }
+QS	"L_Continuants-Voiced"	{ ರ್-* }
+QS 	"L_ಅ" 					{ ಅ-*}
+QS 	"L_ಆ" 					{ ಆ-*}
+QS 	"L_ಇ" 					{ ಇ-*}
+QS 	"L_ಈ" 					{ ಈ-*}
+QS 	"L_ಉ" 					{ ಉ-*}
+QS 	"L_ಊ" 					{ ಊ-*}
+QS 	"L_ಋ" 					{ ಋ-*}
+QS 	"L_ಎ" 					{ ಎ-*}
+QS 	"L_ಏ"					{ ಏ-*}
+QS 	"L_ಐ"					{ ಐ-*}
+QS 	"L_ಒ"					{ ಒ-*}
+QS 	"L_ಓ"					{ ಓ-*}
+QS 	"L_ಔ"					{ ಔ-*}
+QS 	"L_ಕ್"					{ ಕ್-* }
+QS 	"L_ಖ್"					{ ಖ್-* }
+QS 	"L_ಗ್"					{ ಗ್-* }
+QS 	"L_ಘ್"					{ ಘ್-* }
+QS 	"L_ಚ್"					{ ಚ್-* }
+QS 	"L_ಛ್"					{ ಛ್-* }
+QS 	"L_ಜ್"					{ ಜ್-* }
+QS 	"L_ಝ್"					{ ಝ್-* }
+QS 	"L_ಟ್"					{ ಟ್-* }
+QS 	"L_ಠ್"					{ ಠ್-* }
+QS 	"L_ಡ್"					{ ಡ್-* }
+QS 	"L_ಢ್"					{ ಢ್-* }
+QS 	"L_ಣ್"					{ ಣ್-* }
+QS 	"L_ತ್"					{ ತ್-* }
+QS 	"L_ಥ್"					{ ಥ್-* }
+QS 	"L_ದ್"					{ ದ್-* }
+QS 	"L_ಧ್"					{ ಧ್-* }
+QS 	"L_ನ್"					{ ನ್-* }
+QS 	"L_ಪ್"					{ ಪ್-* }
+QS 	"L_ಫ್"					{ ಫ್-* }
+QS 	"L_ಬ್"					{ ಬ್-* }
+QS 	"L_ಭ್"					{ ಭ್-* }
+QS 	"L_ಮ್"					{ ಮ್-* }
+QS 	"L_ಯ್"					{ ಯ್-* }
+QS 	"L_ರ್"					{ ರ್-* }
+QS 	"L_ಲ್"					{ ಲ್-* }
+QS 	"L_ಳ್"					{ ಳ್-* }
+QS 	"L_ವ್"					{ ವ್-* }
+QS 	"L_ಶ್"					{ ಶ್-* }
+QS 	"L_ಷ್"					{ ಷ್-* }
+QS 	"L_ಸ್"					{ ಸ್-* }
+QS 	"L_ಹ್"					{ ಹ್-* }
+QS 	"L_ೠ"					{ ೠ-*}
+
+TR 2

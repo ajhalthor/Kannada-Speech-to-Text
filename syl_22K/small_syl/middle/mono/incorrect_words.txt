@@ -1,0 +1,188 @@
+Aligned transcription: ಅಕ್ಕಪಕ್ಕದ_.lab vs ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: ಅಕ್ಕಪಕ್ಕದ 
+ REC: ಪರ್ವತದ          
+Aligned transcription: ಅತ್ಯದ್ಭುತ_.lab vs ಅತ್ಯದ್ಭುತ_.rec
+ LAB: ಅತ್ಯದ್ಭುತ    
+ REC: ಕರೆಯಲ್ಪಡುವ 
+Aligned transcription: ಇಂಡಿಯನ್_.lab vs ಇಂಡಿಯನ್_.rec
+ LAB: ಇಂಡಿಯನ್ 
+ REC: ಇಂಡಿಯಾ    
+Aligned transcription: ಉತ್ತರದ_.lab vs ಉತ್ತರದ_.rec
+ LAB: ಉತ್ತರದ    
+ REC: ಪುಸ್ತಕದ 
+Aligned transcription: ಉದ್ದಕ್ಕೂ_.lab vs ಉದ್ದಕ್ಕೂ_.rec
+ LAB: ಉದ್ದಕ್ಕೂ    
+ REC: ತೊಂಭತ್ತು 
+Aligned transcription: ಉರುಗನಹಳ್ಳಿ_.lab vs ಉರುಗನಹಳ್ಳಿ_.rec
+ LAB: ಉರುಗನಹಳ್ಳಿ 
+ REC: ವರ್ಗದಲ್ಲಿ    
+Aligned transcription: ಎಂದಿದ್ದು_.lab vs ಎಂದಿದ್ದು_.rec
+ LAB: ಎಂದಿದ್ದು 
+ REC: ಕೇಂದ್ರ       
+Aligned transcription: ಎಂಬುದರ_.lab vs ಎಂಬುದರ_.rec
+ LAB: ಎಂಬುದರ          
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಎಂಬುದರಿಂದ_.lab vs ಎಂಬುದರಿಂದ_.rec
+ LAB: ಎಂಬುದರಿಂದ 
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: ಎಂಭತ್ತು 
+ REC: ಒಂಭತ್ತು 
+Aligned transcription: ಎದ್ದಿರುವ_.lab vs ಎದ್ದಿರುವ_.rec
+ LAB: ಎದ್ದಿರುವ 
+ REC: ಏಕದೇವ          
+Aligned transcription: ಎರಡನೆಯ_.lab vs ಎರಡನೆಯ_.rec
+ LAB: ಎರಡನೆಯ 
+ REC: ಅಲ್ಲದೆ 
+Aligned transcription: ಎರಡನೇ_.lab vs ಎರಡನೇ_.rec
+ LAB: ಎರಡನೇ    
+ REC: ಘರ್ಷಣೆ 
+Aligned transcription: ಏಷ್ಯಾ_.lab vs ಏಷ್ಯಾ_.rec
+ LAB: ಏಷ್ಯಾ       
+ REC: ಏಷ್ಯಾವು 
+Aligned transcription: ಒಗ್ಗಟ್ಟು_.lab vs ಒಗ್ಗಟ್ಟು_.rec
+ LAB: ಒಗ್ಗಟ್ಟು 
+ REC: ಒಂಭತ್ತು    
+Aligned transcription: ಒಗ್ಗಿಕೊ_.lab vs ಒಗ್ಗಿಕೊ_.rec
+ LAB: ಒಗ್ಗಿಕೊ       
+ REC: ಹೊಂದಿದ್ದೂ 
+Aligned transcription: ಒಟ್ಟು_.lab vs ಒಟ್ಟು_.rec
+ LAB: ಒಟ್ಟು 
+ REC: ಒತ್ತು 
+Aligned transcription: ಒತ್ತುವುದರ_.lab vs ಒತ್ತುವುದರ_.rec
+ LAB: ಒತ್ತುವುದರ 
+ REC: ಅಪೂರ್ವ          
+Aligned transcription: ಒಮ್ಮೆಲೇ_.lab vs ಒಮ್ಮೆಲೇ_.rec
+ LAB: ಒಮ್ಮೆಲೇ 
+ REC: ಹೊಂದಿದೆ 
+Aligned transcription: ಕಣಿವೆ_.lab vs ಕಣಿವೆ_.rec
+ LAB: ಕಣಿವೆ 
+ REC: ಘಳಿಗೆ 
+Aligned transcription: ಕನ್ನಡ_.lab vs ಕನ್ನಡ_.rec
+ LAB: ಕನ್ನಡ          
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: ಕುಂದಾಪುರ_.lab vs ಕುಂದಾಪುರ_.rec
+ LAB: ಕುಂದಾಪುರ 
+ REC: ಮಾತ್ರ          
+Aligned transcription: ಕುಂದಾಪುರದ_.lab vs ಕುಂದಾಪುರದ_.rec
+ LAB: ಕುಂದಾಪುರದ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: ಕುರಿತು_.lab vs ಕುರಿತು_.rec
+ LAB: ಕುರಿತು          
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: ಕೆಳದಿ_.lab vs ಕೆಳದಿ_.rec
+ LAB: ಕೆಳದಿ 
+ REC: ಕಣಿವೆ 
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: ಕೊನೆಗೊಂಡ    
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: ಕೊಳ್ಳುವ_.lab vs ಕೊಳ್ಳುವ_.rec
+ LAB: ಕೊಳ್ಳುವ 
+ REC: ಒಳ್ಳೆಯ    
+Aligned transcription: ಕ್ರಿಶನೇ_.lab vs ಕ್ರಿಶನೇ_.rec
+ LAB: ಕ್ರಿಶನೇ 
+ REC: ಘರ್ಷಣೆ    
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: ಖಂಡದದಕ್ಷಿಣ 
+ REC: ಖಂಡನಾಮತ          
+Aligned transcription: ಖಿನ್ನತೆ_.lab vs ಖಿನ್ನತೆ_.rec
+ LAB: ಖಿನ್ನತೆ 
+ REC: ಹಿಂದೆ       
+Aligned transcription: ಖುಷಿಪಡುವ_.lab vs ಖುಷಿಪಡುವ_.rec
+ LAB: ಖುಷಿಪಡುವ 
+ REC: ಏಷ್ಯಾವು    
+Aligned transcription: ಛಾತ್ರ_.lab vs ಛಾತ್ರ_.rec
+ LAB: ಛಾತ್ರ             
+ REC: ಚಾಲುಕ್ಯರು 
+Aligned transcription: ಛಿದ್ರ_.lab vs ಛಿದ್ರ_.rec
+ LAB: ಛಿದ್ರ    
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: ಢಕ್ಕೆ_.lab vs ಢಕ್ಕೆ_.rec
+ LAB: ಢಕ್ಕೆ       
+ REC: ಖಿನ್ನತೆ 
+Aligned transcription: ಢಿಕ್ಕಿ_.lab vs ಢಿಕ್ಕಿ_.rec
+ LAB: ಢಿಕ್ಕಿ 
+ REC: ಹುಟ್ಟಿ 
+Aligned transcription: ತುಂಗಭದ್ರಾ_.lab vs ತುಂಗಭದ್ರಾ_.rec
+ LAB: ತುಂಗಭದ್ರಾ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: ತೆಂಕಣ_.lab vs ತೆಂಕಣ_.rec
+ LAB: ತೆಂಕಣ    
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: ದೀರ್ಘ_.lab vs ದೀರ್ಘ_.rec
+ LAB: ದೀರ್ಘ    
+ REC: ಅಧಿಕೃತ 
+Aligned transcription: ಧುಮುಕುವ_.lab vs ಧುಮುಕುವ_.rec
+ LAB: ಧುಮುಕುವ 
+ REC: ಏಕದೇವ       
+Aligned transcription: ಪುರಾತನ_.lab vs ಪುರಾತನ_.rec
+ LAB: ಪುರಾತನ 
+ REC: ಹೋರಾಟದ 
+Aligned transcription: ಪೂರ್ವಕ್ಕೆ_.lab vs ಪೂರ್ವಕ್ಕೆ_.rec
+ LAB: ಪೂರ್ವಕ್ಕೆ 
+ REC: ಒಲುಮೆ             
+Aligned transcription: ಪೌರಾಣಿಕ_.lab vs ಪೌರಾಣಿಕ_.rec
+ LAB: ಪೌರಾಣಿಕ 
+ REC: ವಾಣಿಜ್ಯ 
+Aligned transcription: ಪ್ರಮಾಣ_.lab vs ಪ್ರಮಾಣ_.rec
+ LAB: ಪ್ರಮಾಣ       
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: ಪ್ರಮುಖ_.lab vs ಪ್ರಮುಖ_.rec
+ LAB: ಪ್ರಮುಖ       
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: ಪ್ರಮುಖರು_.lab vs ಪ್ರಮುಖರು_.rec
+ LAB: ಪ್ರಮುಖರು 
+ REC: ಗಂಗರು          
+Aligned transcription: ಬೌದ್ಧ_.lab vs ಬೌದ್ಧ_.rec
+ LAB: ಬೌದ್ಧ             
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಬ್ರಿಟಿಷ್_.lab vs ಬ್ರಿಟಿಷ್_.rec
+ LAB: ಬ್ರಿಟಿಷ್ 
+ REC: ಪ್ರದೇಶ       
+Aligned transcription: ಭಾಗಕ್ಕಿರುವ_.lab vs ಭಾಗಕ್ಕಿರುವ_.rec
+ LAB: ಭಾಗಕ್ಕಿರುವ 
+ REC: ಚಾಲುಕ್ಯರು    
+Aligned transcription: ಭೂಮಿಯಿಂದ_.lab vs ಭೂಮಿಯಿಂದ_.rec
+ LAB: ಭೂಮಿಯಿಂದ 
+ REC: ಮೇಲಿನ          
+Aligned transcription: ಮುಂದಿನ_.lab vs ಮುಂದಿನ_.rec
+ LAB: ಮುಂದಿನ 
+ REC: ಭೂಮಿಯ    
+Aligned transcription: ಮುಸ್ಲಿಂ_.lab vs ಮುಸ್ಲಿಂ_.rec
+ LAB: ಮುಸ್ಲಿಂ             
+ REC: ಊಸ್ಟ್‌ಯರ್ಟ್ 
+Aligned transcription: ಮೇಲ್ಮೈ_.lab vs ಮೇಲ್ಮೈ_.rec
+ LAB: ಮೇಲ್ಮೈ    
+ REC: ಬೆಳಕಾಗಿ 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: ಮೊಗ್ಗು 
+ REC: ನಾಲ್ಕು 
+Aligned transcription: ಮೊಘಲ್_.lab vs ಮೊಘಲ್_.rec
+ LAB: ಮೊಘಲ್    
+ REC: ಬಟ್ಟಲು 
+Aligned transcription: ಮೌರ್ಯ_.lab vs ಮೌರ್ಯ_.rec
+ LAB: ಮೌರ್ಯ    
+ REC: ಹಿಮಾಲಯ 
+Aligned transcription: ವರೆಗೂ_.lab vs ವರೆಗೂ_.rec
+ LAB: ವರೆಗೂ 
+ REC: ಪಡೆದು 
+Aligned transcription: ವಿಜ್ಞಾನ_.lab vs ವಿಜ್ಞಾನ_.rec
+ LAB: ವಿಜ್ಞಾನ 
+ REC: ಸಿಹಿಯಾದ 
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: ಹದಿನೇಳನೆಯ 
+ REC: ಹದಿನೇಳನೇ 
+Aligned transcription: ಹದಿನೇಳನೇ_.lab vs ಹದಿನೇಳನೇ_.rec
+ LAB: ಹದಿನೇಳನೇ 
+ REC: ಹದಿನೈದನೆ    
+Aligned transcription: ಹನ್ನೊಂದು_.lab vs ಹನ್ನೊಂದು_.rec
+ LAB: ಹನ್ನೊಂದು 
+ REC: ನಾಲ್ಕು          
+====================== HTK Results Analysis =======================
+  Date: Fri Jun  2 19:14:55 2017
+  Ref : middle/mono/testref_middle.mlf
+  Rec : middle/mono/recount_middle.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=88.00 [H=440, S=60, N=500]
+WORD: %Corr=88.00, Acc=88.00 [H=440, D=0, S=60, I=0, N=500]
+===================================================================

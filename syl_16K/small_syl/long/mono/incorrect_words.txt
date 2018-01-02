@@ -1,0 +1,101 @@
+Aligned transcription: ಅಕ್ಕಪಕ್ಕದ_.lab vs ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: ಅಕ್ಕಪಕ್ಕದ 
+ REC: ಪರ್ವತದ          
+Aligned transcription: ಅತ್ಯದ್ಭುತ_.lab vs ಅತ್ಯದ್ಭುತ_.rec
+ LAB: ಅತ್ಯದ್ಭುತ    
+ REC: ಕರೆಯಲ್ಪಡುವ 
+Aligned transcription: ಆಫ್ಘಾನಿಸ್ಥಾನ್_.lab vs ಆಫ್ಘಾನಿಸ್ಥಾನ್_.rec
+ LAB: ಆಫ್ಘಾನಿಸ್ಥಾನ್ 
+ REC: ರಾಷ್ಟ್ರಿಯನಿಸಂ 
+Aligned transcription: ಉದ್ದಕ್ಕೂ_.lab vs ಉದ್ದಕ್ಕೂ_.rec
+ LAB: ಉದ್ದಕ್ಕೂ    
+ REC: ತೊಂಭತ್ತು 
+Aligned transcription: ಉರುಗನಹಳ್ಳಿ_.lab vs ಉರುಗನಹಳ್ಳಿ_.rec
+ LAB: ಉರುಗನಹಳ್ಳಿ 
+ REC: ವರ್ಗದಲ್ಲಿ    
+Aligned transcription: ಎಂಬುದರಿಂದ_.lab vs ಎಂಬುದರಿಂದ_.rec
+ LAB: ಎಂಬುದರಿಂದ 
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: ಎಂಭತ್ತು 
+ REC: ಒಂಭತ್ತು 
+Aligned transcription: ಒಗ್ಗಟ್ಟು_.lab vs ಒಗ್ಗಟ್ಟು_.rec
+ LAB: ಒಗ್ಗಟ್ಟು 
+ REC: ಒಂಭತ್ತು    
+Aligned transcription: ಒಗ್ಗಿಕೊ_.lab vs ಒಗ್ಗಿಕೊ_.rec
+ LAB: ಒಗ್ಗಿಕೊ       
+ REC: ಹೊಂದಿದ್ದೂ 
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: ಕೊನೆಗೊಂಡ    
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: ಖಂಡದದಕ್ಷಿಣ 
+ REC: ಖಂಡನಾಮತ          
+Aligned transcription: ಖುಷಿಪಡುವ_.lab vs ಖುಷಿಪಡುವ_.rec
+ LAB: ಖುಷಿಪಡುವ 
+ REC: ಖಚಿತವಾದ    
+Aligned transcription: ಢಿಕ್ಕಿ_.lab vs ಢಿಕ್ಕಿ_.rec
+ LAB: ಢಿಕ್ಕಿ 
+ REC: ಹುಟ್ಟಿ 
+Aligned transcription: ತುಂಗಭದ್ರಾ_.lab vs ತುಂಗಭದ್ರಾ_.rec
+ LAB: ತುಂಗಭದ್ರಾ 
+ REC: ಪರ್ವತದ          
+Aligned transcription: ಧಾರ್ಯಾ_.lab vs ಧಾರ್ಯಾ_.rec
+ LAB: ಧಾರ್ಯಾ 
+ REC: ಹಿಮಾಲಯ 
+Aligned transcription: ಧುಮುಕುವ_.lab vs ಧುಮುಕುವ_.rec
+ LAB: ಧುಮುಕುವ       
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: ಪುರಾತನ_.lab vs ಪುರಾತನ_.rec
+ LAB: ಪುರಾತನ 
+ REC: ಹೋರಾಟದ 
+Aligned transcription: ಪೌರಾಣಿಕ_.lab vs ಪೌರಾಣಿಕ_.rec
+ LAB: ಪೌರಾಣಿಕ 
+ REC: ವಾಣಿಜ್ಯ 
+Aligned transcription: ಪ್ರಮಾಣ_.lab vs ಪ್ರಮಾಣ_.rec
+ LAB: ಪ್ರಮಾಣ       
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: ಪ್ರಮುಖ_.lab vs ಪ್ರಮುಖ_.rec
+ LAB: ಪ್ರಮುಖ 
+ REC: ಪ್ರಮಾಣ 
+Aligned transcription: ಭಾಗಕ್ಕಿರುವ_.lab vs ಭಾಗಕ್ಕಿರುವ_.rec
+ LAB: ಭಾಗಕ್ಕಿರುವ 
+ REC: ಚಾಲುಕ್ಯರು    
+Aligned transcription: ಭೂಮಿಯಿಂದ_.lab vs ಭೂಮಿಯಿಂದ_.rec
+ LAB: ಭೂಮಿಯಿಂದ       
+ REC: ಕಂಪೆನಿಯಿಂದ 
+Aligned transcription: ಮುನ್ನಡೆಯನ್ನು_.lab vs ಮುನ್ನಡೆಯನ್ನು_.rec
+ LAB: ಮುನ್ನಡೆಯನ್ನು 
+ REC: ಆಂಗ್ರೆನ್ಗಳು    
+Aligned transcription: ಮುಸ್ಲಿಂ_.lab vs ಮುಸ್ಲಿಂ_.rec
+ LAB: ಮುಸ್ಲಿಂ             
+ REC: ಊಸ್ಟ್‌ಯರ್ಟ್ 
+Aligned transcription: ಮೇಲ್ಮೈ_.lab vs ಮೇಲ್ಮೈ_.rec
+ LAB: ಮೇಲ್ಮೈ    
+ REC: ನೇರವಾಗಿ 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: ಮೊಗ್ಗು 
+ REC: ನಾಲ್ಕು 
+Aligned transcription: ವಿಜ್ಞಾನ_.lab vs ವಿಜ್ಞಾನ_.rec
+ LAB: ವಿಜ್ಞಾನ 
+ REC: ಸಿಹಿಯಾದ 
+Aligned transcription: ಸೌಕರ್ಯವುಳ್ಳ_.lab vs ಸೌಕರ್ಯವುಳ್ಳ_.rec
+ LAB: ಸೌಕರ್ಯವುಳ್ಳ 
+ REC: ಸಸ್ತನಿಗಳ          
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: ಹದಿನೇಳನೆಯ 
+ REC: ಹದಿನೇಳನೇ 
+Aligned transcription: ಹದಿನೇಳನೇ_.lab vs ಹದಿನೇಳನೇ_.rec
+ LAB: ಹದಿನೇಳನೇ 
+ REC: ಹದಿನೈದನೆ    
+Aligned transcription: ಹನ್ನೊಂದು_.lab vs ಹನ್ನೊಂದು_.rec
+ LAB: ಹನ್ನೊಂದು 
+ REC: ನಾಲ್ಕು          
+====================== HTK Results Analysis =======================
+  Date: Fri Jun  2 22:16:54 2017
+  Ref : long/mono/testref_long.mlf
+  Rec : long/mono/recount_long.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=93.80 [H=469, S=31, N=500]
+WORD: %Corr=93.80, Acc=93.80 [H=469, D=0, S=31, I=0, N=500]
+===================================================================

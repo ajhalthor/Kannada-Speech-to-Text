@@ -1,0 +1,14 @@
+22.05KHz
+
+Syllables 
+-----------
+
+Dictionary Size : 750
+No. of incorrect predictions : 38 
+accuracy : 94.93
+
+Monophones
+----------
+Dictionary Size : 750
+No. of incorrect predictions : 95
+accuracy : 87.33

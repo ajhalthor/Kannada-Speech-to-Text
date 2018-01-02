@@ -1,0 +1,65 @@
+Aligned transcription: ಅಕ್ಕಪಕ್ಕದ_.lab vs ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: sil ಅಕ್ಕಪಕ್ಕದ sil 
+ REC: sil ಪುಸ್ತಕದ       sil 
+Aligned transcription: ಅತ್ಯದ್ಭುತ_.lab vs ಅತ್ಯದ್ಭುತ_.rec
+ LAB: sil ಅತ್ಯದ್ಭುತ    sil 
+ REC: sil ಕರೆಯಲ್ಪಡುವ sil 
+Aligned transcription: ಇಂಡಿಯನ್_.lab vs ಇಂಡಿಯನ್_.rec
+ LAB: sil ಇಂಡಿಯನ್ sil 
+ REC: sil ಇಂಡಿಯಾ    sil 
+Aligned transcription: ಉರುಗನಹಳ್ಳಿ_.lab vs ಉರುಗನಹಳ್ಳಿ_.rec
+ LAB: sil ಉರುಗನಹಳ್ಳಿ sil 
+ REC: sil ವರ್ಗದಲ್ಲಿ    sil 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: sil ಎಂಭತ್ತು sil 
+ REC: sil ಒಂಭತ್ತು sil 
+Aligned transcription: ಎರಡನೆಯ_.lab vs ಎರಡನೆಯ_.rec
+ LAB: sil ಎರಡನೆಯ sil 
+ REC: sil ಎರಡನೇ    sil 
+Aligned transcription: ಏಷ್ಯಾ_.lab vs ಏಷ್ಯಾ_.rec
+ LAB: sil ಏಷ್ಯಾ       sil 
+ REC: sil ಏಷ್ಯಾವು sil 
+Aligned transcription: ಒಟ್ಟು_.lab vs ಒಟ್ಟು_.rec
+ LAB: sil ಒಟ್ಟು sil 
+ REC: sil ಒತ್ತು sil 
+Aligned transcription: ಓರೆಗಣ್ಣು_.lab vs ಓರೆಗಣ್ಣು_.rec
+ LAB: sil ಓರೆಗಣ್ಣು       sil 
+ REC: sil ಹೊಳೆಗಳನ್ನು sil 
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: sil ಕೊನೆಗೊಂಡ    sil 
+ REC: sil ಕೂಡಿಕೊಂಡು sil 
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: sil ಖಂಡದದಕ್ಷಿಣ sil 
+ REC: sil ಖಂಡನಾಮತ          sil 
+Aligned transcription: ಜಿಲ್ಲಾ_.lab vs ಜಿಲ್ಲಾ_.rec
+ LAB: sil ಜಿಲ್ಲಾ    sil 
+ REC: sil ಜಿಲ್ಲೆಯ sil 
+Aligned transcription: ದೀರ್ಘ_.lab vs ದೀರ್ಘ_.rec
+ LAB: sil ದೀರ್ಘ             sil 
+ REC: sil ಹುಟ್ಟಿದಾಗ sil 
+Aligned transcription: ಧುಮುಕುವ_.lab vs ಧುಮುಕುವ_.rec
+ LAB: sil ಧುಮುಕುವ sil 
+ REC: sil ಋಜುತ್ವ    sil 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: sil ಮೊಗ್ಗು sil 
+ REC: sil ನಾಲ್ಕು sil 
+Aligned transcription: ಮೊಘಲ್_.lab vs ಮೊಘಲ್_.rec
+ LAB: sil ಮೊಘಲ್    sil 
+ REC: sil ಬಟ್ಟಲು sil 
+Aligned transcription: ಮೌರ್ಯ_.lab vs ಮೌರ್ಯ_.rec
+ LAB: sil ಮೌರ್ಯ    sil 
+ REC: sil ಹಿಮಾಲಯ sil 
+Aligned transcription: ವರೆಗೂ_.lab vs ವರೆಗೂ_.rec
+ LAB: sil ವರೆಗೂ sil 
+ REC: sil ಪಡೆದು sil 
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: sil ಹದಿನೇಳನೆಯ sil 
+ REC: sil ಹದಿನೇಳನೇ sil 
+====================== HTK Results Analysis =======================
+  Date: Fri Jun  2 16:46:44 2017
+  Ref : middle/syl/testref_middle.mlf
+  Rec : middle/syl/recount_middle.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.20 [H=481, S=19, N=500]
+WORD: %Corr=98.73, Acc=98.73 [H=1481, D=0, S=19, I=0, N=1500]
+===================================================================

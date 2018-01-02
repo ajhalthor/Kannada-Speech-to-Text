@@ -1,0 +1,182 @@
+Aligned transcription: test_samples/ಅಕ್ಕಪಕ್ಕದ_.lab vs test_samples/ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: ಅಕ್ಕಪಕ್ಕದ 
+ REC: ಪರ್ವತದ          
+Aligned transcription: test_samples/ಅತ್ಯದ್ಭುತ_.lab vs test_samples/ಅತ್ಯದ್ಭುತ_.rec
+ LAB: ಅತ್ಯದ್ಭುತ    
+ REC: ಕರೆಯಲ್ಪಡುವ 
+Aligned transcription: test_samples/ಇಂಡಿಯನ್_.lab vs test_samples/ಇಂಡಿಯನ್_.rec
+ LAB: ಇಂಡಿಯನ್ 
+ REC: ಇಂಡಿಯಾ    
+Aligned transcription: test_samples/ಉತ್ತರದ_.lab vs test_samples/ಉತ್ತರದ_.rec
+ LAB: ಉತ್ತರದ       
+ REC: ಪುತ್ರನಾದ 
+Aligned transcription: test_samples/ಉದ್ದಕ್ಕೂ_.lab vs test_samples/ಉದ್ದಕ್ಕೂ_.rec
+ LAB: ಉದ್ದಕ್ಕೂ    
+ REC: ತೊಂಭತ್ತು 
+Aligned transcription: test_samples/ಉರುಗನಹಳ್ಳಿ_.lab vs test_samples/ಉರುಗನಹಳ್ಳಿ_.rec
+ LAB: ಉರುಗನಹಳ್ಳಿ 
+ REC: ವರ್ಗದಲ್ಲಿ    
+Aligned transcription: test_samples/ಎಂದಿದ್ದು_.lab vs test_samples/ಎಂದಿದ್ದು_.rec
+ LAB: ಎಂದಿದ್ದು 
+ REC: ಕೇಂದ್ರ       
+Aligned transcription: test_samples/ಎಂಬುದರ_.lab vs test_samples/ಎಂಬುದರ_.rec
+ LAB: ಎಂಬುದರ          
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: test_samples/ಎಂಬುದರಿಂದ_.lab vs test_samples/ಎಂಬುದರಿಂದ_.rec
+ LAB: ಎಂಬುದರಿಂದ 
+ REC: ಹಿಂದೂಧರ್ಮ 
+Aligned transcription: test_samples/ಎಂಭತ್ತು_.lab vs test_samples/ಎಂಭತ್ತು_.rec
+ LAB: ಎಂಭತ್ತು 
+ REC: ಒಂಭತ್ತು 
+Aligned transcription: test_samples/ಎದ್ದಿರುವ_.lab vs test_samples/ಎದ್ದಿರುವ_.rec
+ LAB: ಎದ್ದಿರುವ 
+ REC: ಏಕದೇವ          
+Aligned transcription: test_samples/ಎರಡನೆಯ_.lab vs test_samples/ಎರಡನೆಯ_.rec
+ LAB: ಎರಡನೆಯ 
+ REC: ಅಲ್ಲದೆ 
+Aligned transcription: test_samples/ಎರಡನೇ_.lab vs test_samples/ಎರಡನೇ_.rec
+ LAB: ಎರಡನೇ    
+ REC: ಘರ್ಷಣೆ 
+Aligned transcription: test_samples/ಏಡಿಹುಣ್ಣು_.lab vs test_samples/ಏಡಿಹುಣ್ಣು_.rec
+ LAB: ಏಡಿಹುಣ್ಣು 
+ REC: ಹಿಂದು             
+Aligned transcription: test_samples/ಏಷ್ಯಾ_.lab vs test_samples/ಏಷ್ಯಾ_.rec
+ LAB: ಏಷ್ಯಾ       
+ REC: ಏಷ್ಯಾವು 
+Aligned transcription: test_samples/ಒಗ್ಗಟ್ಟು_.lab vs test_samples/ಒಗ್ಗಟ್ಟು_.rec
+ LAB: ಒಗ್ಗಟ್ಟು 
+ REC: ಒಂಭತ್ತು    
+Aligned transcription: test_samples/ಒಗ್ಗಿಕೊ_.lab vs test_samples/ಒಗ್ಗಿಕೊ_.rec
+ LAB: ಒಗ್ಗಿಕೊ       
+ REC: ಹೊಂದಿದ್ದೂ 
+Aligned transcription: test_samples/ಒಟ್ಟು_.lab vs test_samples/ಒಟ್ಟು_.rec
+ LAB: ಒಟ್ಟು 
+ REC: ಒತ್ತು 
+Aligned transcription: test_samples/ಕಣಿವೆ_.lab vs test_samples/ಕಣಿವೆ_.rec
+ LAB: ಕಣಿವೆ 
+ REC: ಘಳಿಗೆ 
+Aligned transcription: test_samples/ಕುಂದಾಪುರ_.lab vs test_samples/ಕುಂದಾಪುರ_.rec
+ LAB: ಕುಂದಾಪುರ 
+ REC: ಮಾತ್ರ          
+Aligned transcription: test_samples/ಕುಂದಾಪುರದ_.lab vs test_samples/ಕುಂದಾಪುರದ_.rec
+ LAB: ಕುಂದಾಪುರದ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: test_samples/ಕುರಿತು_.lab vs test_samples/ಕುರಿತು_.rec
+ LAB: ಕುರಿತು          
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: test_samples/ಕೆಳದಿ_.lab vs test_samples/ಕೆಳದಿ_.rec
+ LAB: ಕೆಳದಿ 
+ REC: ನದಿಯು 
+Aligned transcription: test_samples/ಕೊನೆಗೊಂಡ_.lab vs test_samples/ಕೊನೆಗೊಂಡ_.rec
+ LAB: ಕೊನೆಗೊಂಡ    
+ REC: ಕೂಡಿಕೊಂಡು 
+Aligned transcription: test_samples/ಕ್ರಿಶನೇ_.lab vs test_samples/ಕ್ರಿಶನೇ_.rec
+ LAB: ಕ್ರಿಶನೇ 
+ REC: ಘರ್ಷಣೆ    
+Aligned transcription: test_samples/ಖಂಡದದಕ್ಷಿಣ_.lab vs test_samples/ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: ಖಂಡದದಕ್ಷಿಣ 
+ REC: ಖಂಡನಾಮತ          
+Aligned transcription: test_samples/ಖಿನ್ನತೆ_.lab vs test_samples/ಖಿನ್ನತೆ_.rec
+ LAB: ಖಿನ್ನತೆ 
+ REC: ಹಿಂದೆ       
+Aligned transcription: test_samples/ಖುಷಿಪಡುವ_.lab vs test_samples/ಖುಷಿಪಡುವ_.rec
+ LAB: ಖುಷಿಪಡುವ 
+ REC: ಖಚಿತವಾದ    
+Aligned transcription: test_samples/ಛಾತ್ರ_.lab vs test_samples/ಛಾತ್ರ_.rec
+ LAB: ಛಾತ್ರ             
+ REC: ಚಾಲುಕ್ಯರು 
+Aligned transcription: test_samples/ಛಿದ್ರ_.lab vs test_samples/ಛಿದ್ರ_.rec
+ LAB: ಛಿದ್ರ    
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: test_samples/ಠರಾವು_.lab vs test_samples/ಠರಾವು_.rec
+ LAB: ಠರಾವು       
+ REC: ತಿಪಟೂರು 
+Aligned transcription: test_samples/ಢಕ್ಕೆ_.lab vs test_samples/ಢಕ್ಕೆ_.rec
+ LAB: ಢಕ್ಕೆ       
+ REC: ಖಿನ್ನತೆ 
+Aligned transcription: test_samples/ಢಿಕ್ಕಿ_.lab vs test_samples/ಢಿಕ್ಕಿ_.rec
+ LAB: ಢಿಕ್ಕಿ 
+ REC: ಹುಟ್ಟಿ 
+Aligned transcription: test_samples/ತುಂಗಭದ್ರಾ_.lab vs test_samples/ತುಂಗಭದ್ರಾ_.rec
+ LAB: ತುಂಗಭದ್ರಾ 
+ REC: ಒಮ್ಮತದ          
+Aligned transcription: test_samples/ತೆಂಕಣ_.lab vs test_samples/ತೆಂಕಣ_.rec
+ LAB: ತೆಂಕಣ    
+ REC: ಕೇಂದ್ರ 
+Aligned transcription: test_samples/ದೀರ್ಘ_.lab vs test_samples/ದೀರ್ಘ_.rec
+ LAB: ದೀರ್ಘ    
+ REC: ಅಧಿಕೃತ 
+Aligned transcription: test_samples/ಧಾರ್ಯಾ_.lab vs test_samples/ಧಾರ್ಯಾ_.rec
+ LAB: ಧಾರ್ಯಾ 
+ REC: ಹಿಮಾಲಯ 
+Aligned transcription: test_samples/ಧುಮುಕುವ_.lab vs test_samples/ಧುಮುಕುವ_.rec
+ LAB: ಧುಮುಕುವ 
+ REC: ಏಕದೇವ       
+Aligned transcription: test_samples/ಪುರಾತನ_.lab vs test_samples/ಪುರಾತನ_.rec
+ LAB: ಪುರಾತನ 
+ REC: ಹೋರಾಟದ 
+Aligned transcription: test_samples/ಪೂರ್ವಕ್ಕೆ_.lab vs test_samples/ಪೂರ್ವಕ್ಕೆ_.rec
+ LAB: ಪೂರ್ವಕ್ಕೆ 
+ REC: ಒಲುಮೆ             
+Aligned transcription: test_samples/ಪೌರಾಣಿಕ_.lab vs test_samples/ಪೌರಾಣಿಕ_.rec
+ LAB: ಪೌರಾಣಿಕ 
+ REC: ವಾಣಿಜ್ಯ 
+Aligned transcription: test_samples/ಪ್ರಮಾಣ_.lab vs test_samples/ಪ್ರಮಾಣ_.rec
+ LAB: ಪ್ರಮಾಣ       
+ REC: ಪ್ರಮಾಣವು 
+Aligned transcription: test_samples/ಪ್ರಮುಖ_.lab vs test_samples/ಪ್ರಮುಖ_.rec
+ LAB: ಪ್ರಮುಖ 
+ REC: ಪ್ರಮಾಣ 
+Aligned transcription: test_samples/ಪ್ರಮುಖರು_.lab vs test_samples/ಪ್ರಮುಖರು_.rec
+ LAB: ಪ್ರಮುಖರು 
+ REC: ಗಂಗರು          
+Aligned transcription: test_samples/ಬೌದ್ಧ_.lab vs test_samples/ಬೌದ್ಧ_.rec
+ LAB: ಬೌದ್ಧ          
+ REC: ಭೂಮಿಯಿಂದ 
+Aligned transcription: test_samples/ಭಾಗಕ್ಕಿರುವ_.lab vs test_samples/ಭಾಗಕ್ಕಿರುವ_.rec
+ LAB: ಭಾಗಕ್ಕಿರುವ 
+ REC: ಚಾಲುಕ್ಯರು    
+Aligned transcription: test_samples/ಭೂಮಿಯಿಂದ_.lab vs test_samples/ಭೂಮಿಯಿಂದ_.rec
+ LAB: ಭೂಮಿಯಿಂದ 
+ REC: ಮೇಲಿನ          
+Aligned transcription: test_samples/ಮರ್ಧಿನಿ_.lab vs test_samples/ಮರ್ಧಿನಿ_.rec
+ LAB: ಮರ್ಧಿನಿ 
+ REC: ನದಿಯು       
+Aligned transcription: test_samples/ಮುಂದಿನ_.lab vs test_samples/ಮುಂದಿನ_.rec
+ LAB: ಮುಂದಿನ 
+ REC: ಭೂಮಿಯ    
+Aligned transcription: test_samples/ಮುಸ್ಲಿಂ_.lab vs test_samples/ಮುಸ್ಲಿಂ_.rec
+ LAB: ಮುಸ್ಲಿಂ             
+ REC: ಊಸ್ಟ್‌ಯರ್ಟ್ 
+Aligned transcription: test_samples/ಮೇಲ್ಮೈ_.lab vs test_samples/ಮೇಲ್ಮೈ_.rec
+ LAB: ಮೇಲ್ಮೈ    
+ REC: ನೇರವಾಗಿ 
+Aligned transcription: test_samples/ಮೊಗ್ಗು_.lab vs test_samples/ಮೊಗ್ಗು_.rec
+ LAB: ಮೊಗ್ಗು 
+ REC: ನಾಲ್ಕು 
+Aligned transcription: test_samples/ಮೊಘಲ್_.lab vs test_samples/ಮೊಘಲ್_.rec
+ LAB: ಮೊಘಲ್    
+ REC: ಬಟ್ಟಲು 
+Aligned transcription: test_samples/ಮೌರ್ಯ_.lab vs test_samples/ಮೌರ್ಯ_.rec
+ LAB: ಮೌರ್ಯ    
+ REC: ಹಿಮಾಲಯ 
+Aligned transcription: test_samples/ವಿಜ್ಞಾನ_.lab vs test_samples/ವಿಜ್ಞಾನ_.rec
+ LAB: ವಿಜ್ಞಾನ 
+ REC: ಏಷ್ಯಾದ    
+Aligned transcription: test_samples/ಹದಿನೇಳನೆಯ_.lab vs test_samples/ಹದಿನೇಳನೆಯ_.rec
+ LAB: ಹದಿನೇಳನೆಯ 
+ REC: ಹದಿನೇಳನೇ 
+Aligned transcription: test_samples/ಹದಿನೇಳನೇ_.lab vs test_samples/ಹದಿನೇಳನೇ_.rec
+ LAB: ಹದಿನೇಳನೇ 
+ REC: ಹದಿನೈದನೆ    
+Aligned transcription: test_samples/ಹನ್ನೊಂದು_.lab vs test_samples/ಹನ್ನೊಂದು_.rec
+ LAB: ಹನ್ನೊಂದು 
+ REC: ನಾಲ್ಕು          
+====================== HTK Results Analysis =======================
+  Date: Fri Jun  2 22:22:05 2017
+  Ref : middle/mono/testref_middle.mlf
+  Rec : middle/mono/recount_middle.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=88.40 [H=442, S=58, N=500]
+WORD: %Corr=88.40, Acc=88.40 [H=442, D=0, S=58, I=0, N=500]
+===================================================================

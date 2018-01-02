@@ -1,0 +1,41 @@
+Aligned transcription: ಅಕ್ಕಪಕ್ಕದ_.lab vs ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: sil ಅಕ್ಕಪಕ್ಕದ sil 
+ REC: sil ಒಕ್ಕೂಟದ       sil 
+Aligned transcription: ಅತ್ಯದ್ಭುತ_.lab vs ಅತ್ಯದ್ಭುತ_.rec
+ LAB: sil ಅತ್ಯದ್ಭುತ    sil 
+ REC: sil ಕರೆಯಲ್ಪಡುವ sil 
+Aligned transcription: ಇಂಡಿಯನ್_.lab vs ಇಂಡಿಯನ್_.rec
+ LAB: sil ಇಂಡಿಯನ್ sil 
+ REC: sil ಜಿಲ್ಲೆಯ sil 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: sil ಎಂಭತ್ತು sil 
+ REC: sil ಒಂಭತ್ತು sil 
+Aligned transcription: ಓರೆಗಣ್ಣು_.lab vs ಓರೆಗಣ್ಣು_.rec
+ LAB: sil ಓರೆಗಣ್ಣು       sil 
+ REC: sil ಹೊಳೆಗಳನ್ನು sil 
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: sil ಕೊನೆಗೊಂಡ    sil 
+ REC: sil ಕೂಡಿಕೊಂಡು sil 
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: sil ಖಂಡದದಕ್ಷಿಣ sil 
+ REC: sil ಖಂಡನಾಮತ          sil 
+Aligned transcription: ಮೇಲ್ಮೈ_.lab vs ಮೇಲ್ಮೈ_.rec
+ LAB: sil ಮೇಲ್ಮೈ    sil 
+ REC: sil ನೇರವಾಗಿ sil 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: sil ಮೊಗ್ಗು sil 
+ REC: sil ನಾಲ್ಕು sil 
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: sil ಹದಿನೇಳನೆಯ sil 
+ REC: sil ಹದಿನೇಳನೇ sil 
+Aligned transcription: ಹೊಂದಿದ್ದೂ_.lab vs ಹೊಂದಿದ್ದೂ_.rec
+ LAB: sil ಹೊಂದಿದ್ದೂ sil 
+ REC: sil ಹೊಂದಿದ್ದು sil 
+====================== HTK Results Analysis =======================
+  Date: Sat Jun  3 01:19:24 2017
+  Ref : long/tri/testref_long.mlf
+  Rec : long/tri/recount_long.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=97.80 [H=489, S=11, N=500]
+WORD: %Corr=99.27, Acc=99.27 [H=1489, D=0, S=11, I=0, N=1500]
+===================================================================

@@ -1,0 +1,322 @@
+HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 49 physical / 49 logical HMMs
+Label file will be used to align each file
+Aligning File: train/mfcc/sample1.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಆನೆಯು ಪ್ರಾಣಿಶಾಸ್ತ್ರದ ಪ್ರಕಾರ ಸಸ್ತನಿಗಳ ವರ್ಗದಲ್ಲಿ ಪ್ರೊಬೊಸಿಡಿಯ ಉಪವರ್ಗದ ಒಂದು ಕುಟುಂಬ SENT-END  ==  [1051 frames] -59.4128 [Ac=-62442.9 LM=0.0] (Act=9.1)
+Aligning File: train/mfcc/sample2.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಹಿಂದೆ ಇವುಗಳನ್ನು ಪಾಚಿಡರ್ಮಾಟಾ ಎಂಬ ದಪ್ಪಚರ್ಮದ ಪ್ರಾಣಿಗಳ ಉಪವರ್ಗದಲ್ಲಿರಿಸಲಾಗಿತ್ತು SENT-END  ==  [1201 frames] -57.0801 [Ac=-68553.2 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample3.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಇಂದು ಮೂರು ತಳಿಗಳ ಆನೆಗಳು ಭೂಮಿಯ ಮೇಲೆ ಇವೆ SENT-END  ==  [798 frames] -53.9421 [Ac=-43045.8 LM=0.0] (Act=9.5)
+Aligning File: train/mfcc/sample5.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಸುಮಾರು ಹತ್ತು ಸಾವಿರ ವರ್ಷಗಳ ಹಿಂದೆ ಕೊನೆಗೊಂಡ ಹಿಮಯುಗದೊಂದಿಗೆ ಉಳಿದ ತಳಿಗಳ ಆನೆಗಳು ಭೂಮಿಯಿಂದ ಶಾಶ್ವತವಾಗಿ ಮರೆಯಾದುವು SENT-END  ==  [1451 frames] -59.3961 [Ac=-86183.7 LM=0.0] (Act=9.1)
+Aligning File: train/mfcc/sample8.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ಅಲ್ಲದೆ ನೆಲದ ಮೇಲಿನ ಪ್ರಾಣಿಗಳಲ್ಲಿ ಆನೆಯ ಗರ್ಭಾವಸ್ಥೆಯ ಕಾಲ ಇಪ್ಪತ್ತೆರಡು ತಿಂಗಳುಗಳು ಎಲ್ಲಕ್ಕಿಂತ ದೀರ್ಘ SENT-END  ==  [1395 frames] -58.8834 [Ac=-82142.4 LM=0.0] (Act=9.2)
+Aligning File: train/mfcc/sample9.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಹುಟ್ಟಿದಾಗ ಆನೆಯ ಮರಿಯು ನೂರ ಇಪ್ಪತ್ತು ಕಿಲೋಗ್ರಾಂವರೆಗೆ ತೂಗುವುದಿದೆ SENT-END  ==  [878 frames] -57.8325 [Ac=-50776.9 LM=0.0] (Act=10.3)
+Aligning File: train/mfcc/sample10.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಸುಮಾರು ಎಪ್ಪತ್ತು ವರ್ಷಗಳ ಕಾಲ ಆನೆಯು ಜೀವಿಸಬಲ್ಲುದು SENT-END  ==  [745 frames] -57.9788 [Ac=-43194.2 LM=0.0] (Act=8.3)
+Aligning File: train/mfcc/sample11.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END ಆನೆಯು ಇಂದು ಅಳಿವಿನತ್ತ ಸಾಗಿರುವ ಜೀವಿ SENT-END  ==  [735 frames] -55.0251 [Ac=-40443.5 LM=0.0] (Act=7.3)
+Aligning File: train/mfcc/sample12.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+SENT-END ಒಂದೊಮ್ಮೆ ಹಲವು ದಶಲಕ್ಷಗಳಷ್ಟಿದ್ದ ಆಫ್ರಿಕನ್ ಆನೆಗಳ ಸಂಖ್ಯೆ ಇಂದು ನಾನೂರ ಎಪ್ಪತ್ತು ಸಾವಿರ ದಿಂದ ಆರು ನೂರ ತೊಂಭತ್ತು ಸಾವಿರ ಕ್ಕೆ ಇಳಿದಿದೆ SENT-END  ==  [1925 frames] -57.9032 [Ac=-111463.7 LM=0.0] (Act=9.3)
+Aligning File: train/mfcc/sample13.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ವಿಶ್ವದೆಲ್ಲೆಡೆ ಇಂದು ಆನೆಯನ್ನು ಸಂರಕ್ಷಿತ ಜೀವಿಯನ್ನಾಗಿ ಕಾಪಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ SENT-END  ==  [1218 frames] -56.0975 [Ac=-68326.7 LM=0.0] (Act=7.6)
+Aligning File: train/mfcc/sample14.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗ ಭಾರತ ದೇಶದ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ಒಂದು ನಗರ SENT-END  ==  [1021 frames] -55.8466 [Ac=-57019.4 LM=0.0] (Act=8.7)
+Aligning File: train/mfcc/sample15.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಇದು ಕರ್ನಾಟಕದ ರಾಜಧಾನಿಯಾದ ಬೆಂಗಳೂರು ನಗರದಿಂದ ಎರಡು ನೂರ ಎಪ್ಪತ್ತೈದು ಕಿಮೀ ದೂರದಲ್ಲಿದೆ SENT-END  ==  [1475 frames] -56.8669 [Ac=-83878.7 LM=0.0] (Act=10.1)
+Aligning File: train/mfcc/sample16.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗ ಮಹಾನಗರವು ಈ ಜಿಲ್ಲೆಯ ರಾಜಧಾನಿಯಾಗಿದೆ SENT-END  ==  [741 frames] -56.1315 [Ac=-41593.5 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample17.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ಕರ್ನಾಟಕದ ನಿಸರ್ಗಭರಿತ ಮಲೆನಾಡಿನ ಒಂದು ಭಾಗವಾಗಿದೆ SENT-END  ==  [1218 frames] -55.1608 [Ac=-67185.8 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample18.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಮಹಿಷ ಮರ್ಧಿನಿ ಶಿವಪ್ಪನಾಯಕನ ಅರಮನೆಯ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಒಂದು ಶಿಲ್ಪ SENT-END  ==  [1098 frames] -56.3888 [Ac=-61914.9 LM=0.0] (Act=8.3)
+Aligning File: train/mfcc/sample19.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಸಹ್ಯಾದ್ರಿ ಪರ್ವತಶ್ರೇಣಿ ಮತ್ತು ಅಲ್ಲಿ ಉಗಮಗೊಳ್ಳುವ ನದಿ ಉಪನದಿಗಳು ಶಿವಮೊಗ್ಗಕ್ಕೆ ಯಥೇಚ್ಛ ನೈಸರ್ಗಿಕ ಸೌಂದರ್ಯವನ್ನು ತಂದುಕೊಟ್ಟಿವೆ SENT-END  ==  [1695 frames] -58.8989 [Ac=-99833.7 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample20.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗದಿಂದ ನೂರ ಹದಿಮೂರು ಕಿಮೀ ದೂರದಲ್ಲಿರುವ ಜಗತ್ಪ್ರಸಿದ್ಧ ಜೋಗದ ಜಲಪಾತ ಪ್ರಕೃತಿಯ ಒಂದು ಅಪೂರ್ವ ದೃಶ್ಯ SENT-END  ==  [1518 frames] -57.5239 [Ac=-87321.3 LM=0.0] (Act=8.7)
+Aligning File: train/mfcc/sample21.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಇಲ್ಲಿ ಶರಾವತಿ ನದಿ ಇನ್ನೂರ ಹನ್ನೊಂದು ಮೀ ಎತ್ತರದಿಂದ ಸುಮನೋಹರವಾಗಿ ಧುಮುಕುತ್ತದೆ SENT-END  ==  [1325 frames] -56.5308 [Ac=-74903.3 LM=0.0] (Act=8.7)
+Aligning File: train/mfcc/sample22.mfc
+Created lattice with 18 nodes / 17 arcs from label file
+SENT-END ರಾಜ ರಾಣಿ ರೋರರ್ ಮತ್ತು ರಾಕೆಟ್ ಎಂಬ ನಾಲ್ಕು ವಿಭಿನ್ನ ಪ್ರವಾಹಗಳಾಗಿ ಧುಮುಕುವ ಶರಾವತಿ ಏಷ್ಯದ ಅತಿ ಎತ್ತರದ ಜಲಪಾತವನ್ನು ನಿರ್ಮಿಸಿದೆ SENT-END  ==  [1918 frames] -57.9759 [Ac=-111197.8 LM=0.0] (Act=9.5)
+Aligning File: train/mfcc/sample23.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಮಳೆಗಾಲದ ಸಮಯದಲ್ಲಿ ಕಾಮನ ಬಿಲ್ಲುಗಳನ್ನು ನಿರ್ಮಿಸಿಕೊಂಡು ಅತ್ಯದ್ಭುತ ದೃಶ್ಯವನ್ನು ಜಲಪಾತ ಪ್ರದರ್ಶಿಸುತ್ತದೆ SENT-END  ==  [1331 frames] -57.4112 [Ac=-76414.3 LM=0.0] (Act=8.4)
+Aligning File: train/mfcc/sample24.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+SENT-END ತುಂಗಭದ್ರಾ ಶರಾವತಿ ಕುಮುದ್ವತಿ ಮತ್ತು ಇತರ ನದಿಗಳಿಂದ ಜಲಸರಬರಾಜಿನ ಸೌಕರ್ಯವುಳ್ಳ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ಕರ್ನಾಟಕದ ಅನ್ನದ ಬಟ್ಟಲು ಎನ್ನಿಸಿಕೊಂಡಿದೆ SENT-END  ==  [1911 frames] -58.3861 [Ac=-111575.8 LM=0.0] (Act=9.8)
+Aligning File: train/mfcc/sample25.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗ ಎಂಬ ಹೆಸರು ಶಿವ ಮುಖ ಎಂಬ ಪದಪುಂಜದಿಂದ ಬಂದದ್ದು SENT-END  ==  [1021 frames] -56.5353 [Ac=-57722.6 LM=0.0] (Act=10.7)
+Aligning File: train/mfcc/sample26.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ಇನ್ನೊಂದು ವ್ಯುತ್ಪತ್ತಿಯಂತೆ ಇದು ಸಿಹಿ ಮೊಗೆ ಸಿಹಿಯಾದ ಮೊಗ್ಗು ಎಂದಿದ್ದು ಅದು ಶಿವಮೊಗ್ಗವಾಗಿ ಮಾರ್ಪಾಟುಹೊಂದಿದೆ SENT-END  ==  [1631 frames] -55.6308 [Ac=-90733.8 LM=0.0] (Act=9.6)
+Aligning File: train/mfcc/sample27.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ಮುಂದಿನ ಶತಮಾನಗಳಲ್ಲಿ ಅನೇಕ ರಾಜಮನೆತನಗಳ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಈ ಪ್ರದೇಶ ಇದ್ದಿತು ನಾಲ್ಕನೇ ಶತಮಾನದಲ್ಲಿ ಕದಂಬರು SENT-END  ==  [1658 frames] -56.5246 [Ac=-93717.9 LM=0.0] (Act=9.0)
+Aligning File: train/mfcc/sample28.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಆರನೇ ಶತಮಾನದಲ್ಲಿ ಚಾಲುಕ್ಯರು ಮತ್ತು ಅವರ ಸಾಮಂತರಾದ ಗಂಗರು ಎಂಟನೇ ಶತಮಾನದಲ್ಲಿ ರಾಷ್ಟ್ರಕೂಟರು SENT-END  ==  [1255 frames] -57.2369 [Ac=-71832.3 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample29.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಹನ್ನೊಂದನೇಯದರಲ್ಲಿ ಹೊಯ್ಸಳರು ಮತ್ತು ಹದಿನೈದನೆ ಶತಮಾನದಲ್ಲಿ ವಿಜಯನಗರದ ಅರಸರು ಈ ಪ್ರದೇಶವನ್ನು ಆಳಿದೆ ರಾಜಮನೆತನಗಳಲ್ಲಿ ಪ್ರಮುಖರು SENT-END  ==  [1731 frames] -57.6902 [Ac=-99861.7 LM=0.0] (Act=9.0)
+Aligning File: train/mfcc/sample30.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಶಿವಮೊಗ್ಗ ನಗರಕ್ಕೆ ಸ್ವತಂತ್ರ ವ್ಯಕ್ತಿತ್ವ ಬಂದದ್ದು ಹದಿನಾರನೇ ಶತಮಾನದ ಕೆಳದಿ ನಾಯಕರ ಆಳ್ವಿಕೆಯಲ್ಲಿ SENT-END  ==  [1295 frames] -58.2409 [Ac=-75421.9 LM=0.0] (Act=9.4)
+Aligning File: train/mfcc/sample31.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಹದಿನೇಳನೇ ಶತಮಾನದ ನಂತರ ಭಾರತ ಸ್ವಾತಂತ್ರ್ಯದ ವರೆಗೂ ಶಿವಮೊಗ್ಗ ಮೈಸೂರು ಸಂಸ್ಥಾನದ ಭಾಗವಾಗಿದ್ದಿತು SENT-END  ==  [1388 frames] -58.3750 [Ac=-81024.5 LM=0.0] (Act=9.4)
+Aligning File: train/mfcc/sample32.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ತೀರ್ಥಹಳ್ಳಿ ತಾಲ್ಲೂಕಿನ ಬೆಟ್ಟಬಸರವಾನಿ ಮತ್ತು ಮರಹಳ್ಳಿ ಗ್ರಾಮಗಳಲ್ಲಿ ಜೈನ ಸಂಪ್ರದಾಯದ ಪಳಿಯುಳಿಕೆ ಇವೆ SENT-END  ==  [1365 frames] -59.8528 [Ac=-81699.0 LM=0.0] (Act=9.7)
+Aligning File: train/mfcc/sample33.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಉರುಗನಹಳ್ಳಿ ಸೊರಬ ತಾಲ್ಲೂಕು ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲಾ ಹಿಂದು ಮುಸ್ಲಿಂ ಭಾವೈಕ್ಯತೆಯ ಕೇಂದ್ರ SENT-END  ==  [1025 frames] -59.0855 [Ac=-60562.7 LM=0.0] (Act=10.8)
+Aligning File: train/mfcc/sample34.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+SENT-END ಭಾರತ ಅಥವಾ ಇಂಡಿಯಾ ಎಂದು ಕರೆಯಲ್ಪಡುವ ದಕ್ಷಿಣ ಏಷ್ಯಾದ ಅತಿ ದೊಡ್ಡ ದೇಶದ ಅಧಿಕೃತ ಹೆಸರು ಭಾರತ ಗಣರಾಜ್ಯ SENT-END  ==  [1428 frames] -58.7667 [Ac=-83918.9 LM=0.0] (Act=10.2)
+Aligning File: train/mfcc/sample35.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+SENT-END ಭಾರತೀಯ ಉಪಖಂಡದ ಪ್ರಮುಖ ದೇಶವಾಗಿದ್ದೂ ಪ್ರಪಂಚದ ಎರಡನೇ ಅತಿ ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆ ಹೊಂದಿದ್ದೂ ಪ್ರಪಂಚದ ಅತಿ ದೊಡ್ಡ ಪ್ರಜಾಪ್ರಭುತ್ವ ರಾಷ್ಟೃವಾಗಿದೆ SENT-END  ==  [1625 frames] -58.8520 [Ac=-95634.4 LM=0.0] (Act=10.0)
+Aligning File: train/mfcc/sample36.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+SENT-END ಭಾರತವು ನೂರ ಇಪ್ಪತ್ತೊಂದು ಕೋಟಿಗೂ ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿದ್ದು ಒಟ್ಟು ಒಂಭತ್ತು ನೂರು ವಿಭಿನ್ನ ಭಾಷೆಗಳನ್ನು ಉಪಯೋಗಿಸುವ ಜನರನ್ನು ಹೊಂದಿದೆ SENT-END  ==  [1671 frames] -59.5242 [Ac=-99465.0 LM=0.0] (Act=9.4)
+Aligning File: train/mfcc/sample37.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಕೊಳ್ಳುವ ಶಕ್ತಿಯ ಮೇರೆಗೆ ಪ್ರಪಂಚದ ನಾಲ್ಕನೇ ಅತಿ ದೊಡ್ಡ ಆರ್ಥಿಕ ವ್ಯವಸ್ಥೆಯನ್ನು ಹೊಂದಿದೆ SENT-END  ==  [1025 frames] -59.6310 [Ac=-61121.8 LM=0.0] (Act=9.9)
+Aligning File: train/mfcc/sample38.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಭಾರತ ದೇಶವು ಪ್ರಾಚೀನ ಸಿಂಧೂತಟದ ನಾಗರೀಕತೆಯ ತವರು ಮನೆಯಾಗಿದೆ SENT-END  ==  [838 frames] -59.5884 [Ac=-49935.1 LM=0.0] (Act=9.8)
+Aligning File: train/mfcc/sample39.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಅನೇಕ ಐತಿಹಾಸಿಕ ವಾಣಿಜ್ಯ ಮಾರ್ಗಗಳು ಹಾಗು ಪ್ರಾಚೀನ ಸಾಮ್ರಾಜ್ಯಗಳು ಭಾರತ ದೇಶದಲ್ಲಿ ಉಗಮಿಸಿವೆ SENT-END  ==  [1258 frames] -58.1847 [Ac=-73196.4 LM=0.0] (Act=8.1)
+Aligning File: train/mfcc/sample40.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಪ್ರಪಂಚದ ನಾಲ್ಕು ಪ್ರಮುಖ ಧರ್ಮಗಳಾದ ಹಿಂದೂಧರ್ಮ ಬೌದ್ಧ ಜೈನ್ ಧರ್ಮ ಮತ್ತು ಸಿಖ್ ಧರ್ಮಗಳು ಭಾರತದಲ್ಲಿ ಆರಂಭವಾಗಿವೆ SENT-END  ==  [1455 frames] -58.9110 [Ac=-85715.5 LM=0.0] (Act=11.6)
+Aligning File: train/mfcc/sample41.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಝೋ ರಾಷ್ಟ್ರಿಯನಿಸಂ ಕ್ರಿಶ್ಚಿಯನ್ ಧರ್ಮ ಮತ್ತು ಇಸ್ಲಾಂ ಧರ್ಮ SENT-END  ==  [731 frames] -58.2694 [Ac=-42595.0 LM=0.0] (Act=9.1)
+Aligning File: train/mfcc/sample42.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಕ್ರಿಶನೇ ಸಹಸ್ರಮಾನದಲ್ಲಿ ಆಗಮಿಸಿ ಈ ಪ್ರದೇಶದ ಸಂಸ್ಕೃತಿಯನ್ನು ವೈವಿಧ್ಯಮಯವಾಗಿಸಿವೆ SENT-END  ==  [1375 frames] -54.9091 [Ac=-75500.1 LM=0.0] (Act=7.7)
+Aligning File: train/mfcc/sample43.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಹದಿನೆಂಟನೇ ಶತಮಾನದಲ್ಲಿ ಭಾರತ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪೆನಿಯಿಂದ ಆಕ್ರಮಣಗೊಂಡು ಇಂಗ್ಲೇಂಡಿನ ಆಡಳಿತಕ್ಕೊಳಪಟ್ಟಿತು SENT-END  ==  [1561 frames] -57.3339 [Ac=-89498.3 LM=0.0] (Act=9.0)
+Aligning File: train/mfcc/sample44.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಮಧ್ಯದಲ್ಲಿ ಭಾರತ ಅನೇಕ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಫಲವಾಗಿ ಬ್ರಿಟೀಷರಿಂದ ಸ್ವತಂತ್ರವಾಯಿತು SENT-END  ==  [1318 frames] -59.6600 [Ac=-78631.8 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample45.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಭಾರತ ಎಂಬ ಹೆಸರು ಭರತವರ್ಷ ಎಂಬ ಹೆಸರಿನಿಂದ ಉಗಮಗೊಂಡದ್ದು SENT-END  ==  [861 frames] -57.6411 [Ac=-49629.0 LM=0.0] (Act=9.0)
+Aligning File: train/mfcc/sample46.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಪುರಾತನ ಪೌರಾಣಿಕ ಆಕರಗಳಿಂದಲೂ ಈ ಹೆಸರು ಭಾರತಕ್ಕೆ ಸೂಚಿತವಾಗಿದೆ SENT-END  ==  [991 frames] -58.3067 [Ac=-57781.9 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample47.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಋಷಭದೇವನ ಮಗ ಭರತ ಚಕ್ರವರ್ತಿಯಿಂದ ಅಥವಾ ಮಹಾರಾಜ ದುಶ್ಯಂತನ ಪುತ್ರನಾದ ಭರತ ಮಹಾರಾಜನ ಹೆಸರಿನಿಂದ ಬಂದದ್ದು SENT-END  ==  [1641 frames] -59.1610 [Ac=-97083.2 LM=0.0] (Act=10.3)
+Aligning File: train/mfcc/sample48.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ಇಂಡಿಯಾ ಎಂಬ ಹೆಸರು ಸಿಂಧೂ ನದಿಯ ಇದರ ಪರ್ಷಿಯನ್ ರೂಪಾಂತರ ಇಂಡಸ್ ಎಂಬುದರಿಂದ ಬಂದದ್ದು SENT-END  ==  [1198 frames] -58.9696 [Ac=-70645.5 LM=0.0] (Act=9.9)
+Aligning File: train/mfcc/sample49.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಭಾರತವನ್ನು ನಿರ್ದೇಶಿಸಲು ಉಪಯೋಗಿಸಲಾಗಿರುವ ಇತರ ಹೆಸರುಗಳಲ್ಲಿ ಒಂದು ಹಿಂದುಸ್ತಾನ SENT-END  ==  [1065 frames] -58.6436 [Ac=-62455.4 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample50.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಭಾರತದಲ್ಲಿ ಜನವಸತಿಯ ವೊದಲ ಕುರುಹುಗಳೆಂದರೆ ಈಗಿನ ಮಧ್ಯ ಪ್ರದೇಶ ರಾಜ್ಯದ ಬಿಂಭೇಟ್ಕಾದಲ್ಲಿ ದೊರೆತಿರುವ ಶಿಲಾಯುಗದ ಪಳೆಯುಳಿಕೆಗಳು SENT-END  ==  [1498 frames] -60.8145 [Ac=-91100.1 LM=0.0] (Act=10.1)
+Aligning File: train/mfcc/sample51.mfc
+Created lattice with 28 nodes / 27 arcs from label file
+SENT-END ಸುಮಾರು ಒಂಭತ್ತು ಸಾವಿರ ವರ್ಷಗಳ ಹಿಂದೆ ನಾಗರೀಕತೆಯ ಕುರುಹುಗಳು ಕಂಡು ಬಂದು ಕ್ರಿಪೂ ಒಂದು ಸಾವಿರದ ಆರು ನೂರು ರಿಂದ ಕ್ರಿಪೂ ಒಂದು ಸಾವಿರ ಒಂಭತ್ತು ನೂರು ರ ವರೆಗೆ ಸಿಂಧೂ ಕಣಿವೆ ನಾಗರೀಕತೆ ಅಸ್ತಿತ್ವದಲ್ಲಿತ್ತು SENT-END  ==  [2665 frames] -58.6446 [Ac=-156288.0 LM=0.0] (Act=10.3)
+Aligning File: train/mfcc/sample52.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ನಂತರ ವೇದಗಳನ್ನು ಆಧರಿಸಿ ಹಿಂದು ಧರ್ಮ ಬೆಳೆಯಿತು SENT-END  ==  [805 frames] -56.9482 [Ac=-45843.3 LM=0.0] (Act=9.1)
+Aligning File: train/mfcc/sample53.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಆ ಸಂದರ್ಭದಲ್ಲಿ ಬೌದ್ಧ ಧರ್ಮ ಮತ್ತು ಜೈನ ಧರ್ಮಗಳು ಸಹ ಉಗಮಗೊಂಡವು SENT-END  ==  [1048 frames] -58.8087 [Ac=-61631.5 LM=0.0] (Act=11.7)
+Aligning File: train/mfcc/sample54.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ ಭಾರತವನ್ನು ಸರಿ ಸುಮಾರಾಗಿ ಒಗ್ಗೂಡಿಸಿದ ವೊದಲ ಸಾಮ್ರಾಜ್ಯ SENT-END  ==  [1091 frames] -57.5988 [Ac=-62840.3 LM=0.0] (Act=7.7)
+Aligning File: train/mfcc/sample55.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ನಂತರ ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ ಭಾರತದ ಸುವರ್ಣ ಯುಗದಲ್ಲಿ ಆಡಳಿತ ನಡೆಸಿತು SENT-END  ==  [1015 frames] -57.4219 [Ac=-58283.2 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample56.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಈ ಕಾಲದಲ್ಲಿ ಸಾಹಿತ್ಯ ವಿಜ್ಞಾನ ತತ್ವಶಾಸ್ತ್ರ ವೊದಲಾದ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಮುನ್ನಡೆಯನ್ನು ಭಾರತ ಸಾಧಿಸಿತು SENT-END  ==  [1535 frames] -55.9420 [Ac=-85871.0 LM=0.0] (Act=7.8)
+Aligning File: train/mfcc/sample57.mfc
+Created lattice with 25 nodes / 24 arcs from label file
+SENT-END ಎರಡನೆಯ ಸಹಸ್ರಮಾನದ ಆರಂಭದಲ್ಲಿ ಅನೇಕ ಮುಸ್ಲಿಂ ರಾಜರ ದಾಳಿ ಆರಂಭವಾಗಿ ಹನ್ನೆರಡನೆಯ ಶತಮಾನದಿಂದ ಮುಂದಕ್ಕೆ ಉತ್ತರ ಭಾರತದ ಅನೇಕ ಭಾಗಗಳು ಮತ್ತು ದಕ್ಷಿಣ ಭಾರತದ ಕೆಲ ಭಾಗಗಳು ಮುಸ್ಲಿಂ ಆಡಳಿತಕ್ಕೆ ಒಳಪಟ್ಟವು SENT-END  ==  [3348 frames] -56.4839 [Ac=-189107.9 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample58.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಉದಾಹರಣೆಗೆ ದೆಹಲಿ ಸುಲ್ತಾನೇಟ್ ಬಹಮನಿ ಸುಲ್ತಾನರು ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ SENT-END  ==  [898 frames] -59.0545 [Ac=-53030.9 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample59.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಹದಿನೇಳನೆಯ ಶತಮಾನದಿಂದ ಮುಂದಕ್ಕೆ ಪೋರ್ಚುಗೀಸ್ ಫ್ರೆಂಚ್ ಮತ್ತು ಬ್ರಿಟಿಷ್ ವ್ಯಾಪಾರಿಗಳು ಭಾರತಕ್ಕೆ ಬರಲಾರಂಭಿಸಿದರು SENT-END  ==  [1935 frames] -55.8406 [Ac=-108051.7 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample60.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ಹಂಚಿಹೋಗಿದ್ದ ಭಾರತದ ರಾಜಕೀಯ ಪರಿಸ್ಥಿತಿಯ ಲಾಭ ಪಡೆದು ಭಾರತದ ಅನೇಕ ಪ್ರದೇಶಗಳನ್ನು ಇವರು ವಶಪಡಿಸಿಕೊಳ್ಳಲಾರಂಭಿಸಿದರು SENT-END  ==  [1688 frames] -57.9338 [Ac=-97792.2 LM=0.0] (Act=9.0)
+Aligning File: train/mfcc/sample61.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಊದುಕೊಳವೆ ಊಹಿಸಲಾಗದ ಊರ್ಜಿತಗೊಳಿಸು ಊಳಿಗಮಾನ್ಯ ಊರಬಾಗಿಲು ಊಹಾಪೋಹುಮಾಡು ಊಂಕು ಊರ್ಣನಾಭ SENT-END  ==  [1561 frames] -56.3019 [Ac=-87887.3 LM=0.0] (Act=8.7)
+Aligning File: train/mfcc/sample62.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಋಜುತ್ವ ಋಣ ಋತುವನ್ನವಲಂಬಿಸಿದ ಋತುಸ್ರಾವ ಔಚಿತ್ಯ ಔದಾಸೀನ್ಯ ಔಪಚಾರಿಕ ಔಷಧಗಳು SENT-END  ==  [1251 frames] -58.7817 [Ac=-73535.9 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample63.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಔಷಧೀಯ ಖಂಡನಾಮತ ಖಚಿತತೆ ಖಾಯಿಲೆಯಿಂದಿರುವವರು ಖಾಸಗಿ ಖಿನ್ನತೆ ಖೋತಾ ಖ್ಯಾತನಾಮ SENT-END  ==  [1375 frames] -56.4754 [Ac=-77653.7 LM=0.0] (Act=7.6)
+Aligning File: train/mfcc/sample64.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಛಂದಸ್ಸು ಛಾತ್ರ ಛಾಯಾರೂಪ ಛಿದ್ರ ಛೀಮಾರಿ ಠಕ್ಕ ಠರಾವು ಠೀಕಿನ SENT-END  ==  [1168 frames] -57.0758 [Ac=-66664.5 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample65.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಠೇವಣಿ ಢಾಲು ಢಿಕ್ಕಿ ಢಕ್ಕೆ ಥರ್ಮಾಮೀಟರು ಥಳಕಿಸು ಥಳಥಳಿಸುವಿಕೆ SENT-END  ==  [1268 frames] -55.9917 [Ac=-70997.4 LM=0.0] (Act=8.2)
+Aligning File: train/mfcc/sample66.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಆರೋರಾ ಬೋರಿಯಾಲಿಸ್ ಅನ್ನು ತೆಂಕಣ ಬೆಳಕು ಎಂದು ಸಹ ಕರೆಯಲಾಗುತ್ತದೆ SENT-END  ==  [1051 frames] -57.6472 [Ac=-60587.2 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample67.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END ಫ್ರಾನ್ಸ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಯಲ್ಲಿ ಎಡಪಂಥೀಯ ಇಮ್ಮಾನ್ಯುವೆಲ್ SENT-END  ==  [838 frames] -57.0345 [Ac=-47794.9 LM=0.0] (Act=7.9)
+Aligning File: train/mfcc/sample68.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END ವಿದ್ಯುತ್ಪ್ರೇರಿತವಾದ ಈ ಕಣಗಳು ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿನ ಅನಿಲಗಳ ಪರಮಾಣುಗಳಿಗೆ ಢಿಕ್ಕಿ ಹೊಡೆದಾಗ ಅವು ಉತ್ತೇಜಿತವಾಗುತ್ತವೆ SENT-END  ==  [1865 frames] -56.3728 [Ac=-105135.4 LM=0.0] (Act=8.2)
+Aligning File: train/mfcc/sample69.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+SENT-END ಬರೆಯುವಾಗ ಕೀಲಿಮಣೆ ಐಕಾನ್ ಒತ್ತಿ ಕನ್ನಡ ಆಯ್ದುಕೊಳ್ಳುವುದರ ಅಥವಾ ಬಟನ್ ಒತ್ತುವುದರ ಮೂಲಕ ಈಗ ನೇರವಾಗಿ ಕನ್ನಡದಲ್ಲಿ ಬರೆಯಬಹುದು SENT-END  ==  [1915 frames] -57.5977 [Ac=-110299.6 LM=0.0] (Act=10.9)
+Aligning File: train/mfcc/sample70.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಅಗಾಧ ಸಂಖ್ಯೆಯ ಪರಮಾಣುಗಳು ಒಮ್ಮೆಲೇ ಹೀಗೆ ಶಕ್ತಿಯನ್ನು ಬೆಳಕಾಗಿ ಹೊರಹಾಕಿದಾಗ ಆಗಸದಲ್ಲಿ ವರ್ಣರಂಜಿತ ಬೆಳಕಿನಾಟ ಕಾಣಿಸುವುದು SENT-END  ==  [2158 frames] -54.4841 [Ac=-117576.7 LM=0.0] (Act=8.4)
+Aligning File: train/mfcc/sample71.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+SENT-END ಜೆನೆರಿಕ್ ಔಷಧ ರೋಗ ಲಕ್ಷಣ ನಿವಾರಣೆ ಅದರ ಚಿಕಿತ್ಸೆ ಉಪಚಾರ ಮತ್ತು ನಿರೋಧನೆಗಾಗಿ ಉಪಯೋಗಿಸಲ್ಪಡುವ ರಾಸಾಯನಿಕ ವಸ್ತು ಅಥವಾ ಔಷಧ SENT-END  ==  [1858 frames] -57.7433 [Ac=-107287.1 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample72.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಇದು ಬ್ರ್ಯಾಂಡ್ ಔಷಧಗಳಿಗೆ ಸಮನಾಗಿರುತ್ತದೆ ಮತ್ತು ಔಷಧ ಪ್ರಮಾಣ ಶಕ್ತಿಗುಣಮಟ್ಟ ಪ್ರಮಾಣವು ಬ್ರ್ಯಾಂಡ್ ಹೆಸರಿನ ಉತ್ಪನ್ನಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ SENT-END  ==  [2255 frames] -53.7846 [Ac=-121284.2 LM=0.0] (Act=8.4)
+Aligning File: train/mfcc/sample73.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಈಚನೂರು ಜಯಲಕ್ಷ್ಮಿಯವರು ಜನಿಸಿದ್ದು ತುಮಕೂರು ಜಿಲ್ಲೆಯ ತಿಪಟೂರು ತಾಲ್ಲೂಕಿನ ಈಚನೂರು ಗ್ರಾಮದಲ್ಲಿ SENT-END  ==  [1468 frames] -55.0457 [Ac=-80807.1 LM=0.0] (Act=7.5)
+Aligning File: train/mfcc/sample74.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಅನೇಕ ಕಥೆಗಳು ಇಪ್ಪತ್ತೈದಕ್ಕೂ ಹೆಚ್ಚು ಕಾದಂಬರಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ SENT-END  ==  [988 frames] -55.8130 [Ac=-55143.3 LM=0.0] (Act=8.7)
+Aligning File: train/mfcc/sample75.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಇವರು ಬರೆದಿರುವ ಮುಂಜಾನೆಯ ಮಂಜು ಎಂಬ ಪುಸ್ತಕದ ಆಧಾರದ ಮೇಲೆ ಅದೇ ಹೆಸರಿನ ಕನ್ನಡ ಚಲನಚಿತ್ರವೊಂದನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ SENT-END  ==  [1768 frames] -57.0525 [Ac=-100868.8 LM=0.0] (Act=9.9)
+Aligning File: train/mfcc/sample76.mfc
+Created lattice with 22 nodes / 21 arcs from label file
+SENT-END ಮುಂಚೆ ಸೋವಿಯೆಟ್ ಒಕ್ಕೂಟದ ಭಾಗವಾಗಿದ್ದ ಉಜ್ಬೇಕಿಸ್ಥಾನ್ ಪಶ್ಚಿಮಕ್ಕೆ ಹಾಗು ಉತ್ತರಕ್ಕೆ ಕಾಜಕಸ್ಥಾನ್ ಪೂರ್ವಕ್ಕೆ ಕಿರ್ಗಿಜ್‍ಸ್ಥಾನ್ ಮತ್ತು ತಾಜಿಕಿಸ್ಥಾನ್ ಹಾಗು ದಕ್ಷಿಣಕ್ಕೆ ಆಫ್ಘಾನಿಸ್ಥಾನ್ ಮತ್ತು ತುರ್ಕಮೇನಿಸ್ಥಾನ್ ದೇಶಗಳನ್ನು ಹೊಂದಿದೆ SENT-END  ==  [2955 frames] -57.1362 [Ac=-168837.6 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample77.mfc
+Created lattice with 21 nodes / 20 arcs from label file
+SENT-END ಉತ್ತರದಲ್ಲಿರುವ ಆರಲ್ ಸಮುದ್ರದ ಪಶ್ಚಿಮ ತೀರದ ಉದ್ದಕ್ಕೂ ಹಬ್ಬಿರುವ ಊಸ್ಟ್‌ಯರ್ಟ್ ಪ್ರಸ್ಥಭೂಮಿ ಸಮುದ್ರಮಟ್ಟಕ್ಕಿಂತ ನೂರ ಎಂಭತ್ತು ರಿಂದ ಎರಡು ನೂರ ಎಪ್ಪತ್ತು ಮೂರು ಮೀ ಎತ್ತರವಾಗಿದೆ SENT-END  ==  [2705 frames] -54.9602 [Ac=-148667.2 LM=0.0] (Act=9.5)
+Aligning File: train/mfcc/sample78.mfc
+Created lattice with 19 nodes / 18 arcs from label file
+SENT-END ಟಾಷ್ಕೆಂಟಿನ ಆಗ್ನೇಯ ಭಾಗಕ್ಕಿರುವ ಚಟ್ಕಲ್ ಶ್ರೇಣಿಯಲ್ಲಿ ಹುಟ್ಟಿ ಈ ನಗರದ ಸುತ್ತಣ ಓಯಸಿಸ್ಸುಗಳಿಗೆ ನೀರುಣಿಸುವ ಚಿರ್ಚಿಕ್ ಆಂಗ್ರೆನ್ಗಳು ಸೀರ್ ಧಾರ್ಯಾ ನದಿಯ ಉಪನದಿಗಳು SENT-END  ==  [2778 frames] -55.4267 [Ac=-153975.5 LM=0.0] (Act=8.4)
+Aligning File: train/mfcc/sample79.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ಹೆಚ್ಚು ಮಳೆಯಾಗುವ ಎತ್ತರ ಪ್ರದೇಶದಲ್ಲಿ ಒಣ ಬೇಸಾಯ ಕಾಳು ಮೆಕ್ಕೆಜೋಳ ಆಲೂಗೆಡ್ಡೆ ಇವು ಇಲ್ಲಿನ ಉತ್ಪನ್ನ SENT-END  ==  [1505 frames] -57.6121 [Ac=-86706.1 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample80.mfc
+Created lattice with 25 nodes / 24 arcs from label file
+SENT-END ಸಾವಿರದ ಒಂಭತ್ತು ನೂರ ಹದಿನೇಳು ಡಿಸೆಂಬರಿನಲ್ಲಿ ಮುಸ್ಲಿಮರು ಕಾಕಾಂಟ್ನಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನವೊಂದನ್ನು ನಡೆಸಿ ಸ್ಥಾಪಿಸಿದ ಮುಸ್ಲಿಂ ಸರ್ಕಾರ ಸಾವಿರದ ಒಂಭತ್ತು ನೂರ ಹದಿನೆಂಟು ಫೆಬ್ರವರಿಯಲ್ಲಿ ತಾಷ್ಕೆಂಟಿ ನಿಂದ ಬಂದ ಸೈನ್ಯದಿಂದ ಉರುಳಿಬಿತ್ತು SENT-END  ==  [3335 frames] -57.6175 [Ac=-192154.2 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample81.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಉತ್ತರದ ಮೂರು ತಾಲೂಕುಗಳಾದ ಉಡುಪಿ ಕುಂದಾಪುರ ಕಾರ್ಕಳ ವನ್ನು ದಕ್ಷಿಣ ಕನ್ನಡದಿಂದ ಪ್ರತ್ಯೇಕಿಸಿ ಉಡುಪಿ ಜಿಲ್ಲೆಯನ್ನಾಗಿ ರಚಿಸಲಾಯಿತು SENT-END  ==  [1701 frames] -58.1779 [Ac=-98960.5 LM=0.0] (Act=9.6)
+Aligning File: train/mfcc/sample82.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಉತ್ತರದ ತಾಲೂಕಾದ ಕುಂದಾಪುರದಾದ್ಯಂತ ಕನ್ನಡವನ್ನು ಮಾತ್ರ ಉಪಯೋಗಿಸುತ್ತಾರೆ SENT-END  ==  [1055 frames] -58.1108 [Ac=-61306.9 LM=0.0] (Act=7.9)
+Aligning File: train/mfcc/sample83.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+SENT-END ಗಂಗೊಳ್ಳಿ ನದಿಯು ಕುಂದಾಪುರದ ಬಳಿ ಐದು ಉಪ ಹೊಳೆಗಳನ್ನು ಕೂಡಿಕೊಂಡು ಸಮುದ್ರಸೇರುವುದರಿಂದ ಈ ಸ್ಥಳವನ್ನು ಪಂಚಗಂಗಾವಳಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ SENT-END  ==  [2455 frames] -54.5351 [Ac=-133883.7 LM=0.0] (Act=10.7)
+Aligning File: train/mfcc/sample84.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ನಿಮಗೇನಾದರೂ ಉತ್ತರ ಕರ್ನಾಟಕದ ಅತಿ ಪ್ರಮುಖ ಐತಿಹಾಸಿಕ ಸ್ಥಳಗಳ್ಯಾವುವು ಎಂಬುದರ ಕುರಿತು ತಿಳಿಯಬೇಕಿದ್ದರೆ ಈ ಲೇಖನವನ್ನೊಮ್ಮೆ ಓದಿ SENT-END  ==  [2495 frames] -54.1414 [Ac=-135082.7 LM=0.0] (Act=9.4)
+Aligning File: train/mfcc/sample85.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END ಐತಿಹ್ಯ ಐಲುಪೈಲಾದ ಐಶ್ವರ್ಯ ಐಷಾರಾಮದ ಐಹಿಕ SENT-END  ==  [931 frames] -55.4268 [Ac=-51602.3 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample86.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಐಕಮತ್ಯ ಏಕದೇವ ಏಕತ್ವತಾವಾದ ಏಕೆಂದರೆ ಏಡಿಹುಣ್ಣು ಏದುಸಿರು ಏನೆಂದರೆ SENT-END  ==  [1348 frames] -53.7650 [Ac=-72475.2 LM=0.0] (Act=7.9)
+Aligning File: train/mfcc/sample87.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಏರಿಕೆಯ ಏರಿಳಿತ ಏರ್ಪಾಟು ಏರಿಳಿತಗಳು ಏಳುಬೀಳು ಏವಯಿಸು SENT-END  ==  [1191 frames] -53.5351 [Ac=-63760.3 LM=0.0] (Act=7.2)
+Aligning File: train/mfcc/sample88.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಒಂಟಿಯಾಗಿ ಒಂದರಿ ಒಂದಾಗಿರುವಿಕೆ ಒಗ್ಗಟ್ಟಿನ ಒಗ್ಗಟ್ಟು ಒಗ್ಗಿಕೊ SENT-END  ==  [1118 frames] -54.6379 [Ac=-61085.2 LM=0.0] (Act=8.9)
+Aligning File: train/mfcc/sample89.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಒಟ್ಟಭಿಪ್ರಾಯ ಒಡಂಬಡಿಕೆ ಒಡೆಯ ಒಡ್ಯಾಣ ಒಣದ್ರಾಕ್ಷಿ ಒತ್ತು ಒತ್ತಿನಲ್ಲಿರು SENT-END  ==  [1541 frames] -53.2564 [Ac=-82068.1 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample90.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ಒದಗಿಸುವುದು ಒಪ್ಪಿಕೊಂಡದ್ದು ಒಮ್ಮತದ ಒಲುಮೆ ಒಳಗೊಂಡಿರುವ ಒಳಸಂಚು ಒಳ್ಳೆಯ ಒಸರು SENT-END  ==  [1685 frames] -53.5919 [Ac=-90302.4 LM=0.0] (Act=9.2)
+Aligning File: train/mfcc/sample91.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ಓಕರಿಸು ಓಟಗಾರ ಓಡಿಹೋಗುವುದು ಓದಿಸಿಕೊಳ್ಳುವ ಓರೆಗಣ್ಣು ಓಲೆಕಾರ ಓರ್ವನಾಳ್ವಿಕೆ ಓಸರಿಸು ಓಲೆಕಾರ SENT-END  ==  [2175 frames] -52.5203 [Ac=-114231.6 LM=0.0] (Act=6.8)
+Aligning File: train/mfcc/sample92.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END ಔಚಿತ್ಯ ಔಚಿತ್ಯವಿಲ್ಲದ ಔದ್ಯೋಗಿಕ ಔಪಚಾರಿಕ ಔಷಧೀಯ ಔಷಧಗಳು SENT-END  ==  [1355 frames] -53.9316 [Ac=-73077.3 LM=0.0] (Act=6.6)
+Aligning File: train/mfcc/sample93.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END ಖಚಿತವಾದ ಖಳನಾಯಕ ಖಯಾಲಿ ಖರೀದಿ ಖಾರವಾದ ಖಾಸಗಿಯಾದ ಖಿನ್ನತೆ SENT-END  ==  [1358 frames] -54.0607 [Ac=-73414.4 LM=0.0] (Act=7.2)
+Aligning File: train/mfcc/sample94.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಖುಷಿಪಡುವ ಖೂನಿ ಖೇಚರ ಖೈದು ಖೋಡಿ ಖ್ಯಾತ ಖ್ಯಾತನಾಮ ಘಂಟಾನಾದ ಘಟನಾವಳಿ ಘಟಿಕೋತ್ಸವ SENT-END  ==  [1935 frames] -54.1329 [Ac=-104747.2 LM=0.0] (Act=8.1)
+Aligning File: train/mfcc/sample95.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END ಘನಗಾಂಭೀರ್ಯದ ಘರ್ಷಣೆ ಘಳಿಗೆ ಘಾಸಿಗೊಳಿಸುವಂಥ ಘೋಷಣೆ SENT-END  ==  [1318 frames] -52.6731 [Ac=-69423.1 LM=0.0] (Act=6.6)
+Aligning File: train/mfcc/sample96.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+SENT-END ದಕ್ಷಿಣ ಏಷ್ಯಾವನ್ನು ದಕ್ಷಿಣಾರ್ಧ ಏಷ್ಯಾ ಎಂದು ಕೂಡ ಕರೆಯುತ್ತಾರೆ ಇದು ಏಷ್ಯಾ ಖಂಡದದಕ್ಷಿಣ ಪ್ರಾಂತ್ಯಗಳಾದ ಹಿಮಾಲಯದ ದಕ್ಷಿಣದಲ್ಲಿರುವ ದೇಶಗಳು SENT-END  ==  [2515 frames] -54.8414 [Ac=-137926.2 LM=0.0] (Act=7.6)
+Aligning File: train/mfcc/sample97.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಹಾಗು ಕೆಲವು ಸ್ವತಂತ್ರ ಪ್ರಭುತ್ವ ಇದರೊಂದಿಗೆ ಅಕ್ಕಪಕ್ಕದ ಪಶ್ಚಿಮ ಹಾಗು ಪೂರ್ವದಲ್ಲಿರುವ ಕೆಲವು ನೆರೆಯ ರಾಷ್ಟ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ SENT-END  ==  [2111 frames] -55.3890 [Ac=-116926.3 LM=0.0] (Act=9.3)
+Aligning File: train/mfcc/sample98.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END ಈ ಪ್ರದೇಶದ ಸ್ವರೂಪಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಹಿಮಾಲಯ ಹಾಗು ಹಿಂದುಕುಶ್ ಪರ್ವತದ ದಕ್ಷಿಣಕ್ಕೆ ಸಮುದ್ರದ ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಎದ್ದಿರುವ ಭಾರತೀಯ SENT-END  ==  [2065 frames] -56.5243 [Ac=-116722.8 LM=0.0] (Act=8.2)
+Aligning File: train/mfcc/sample99.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END ಉಪಖಂಡದ ರೂಪದಲ್ಲಿ ಚಾಚಿ ಕೊಂಡಿರುವ ಭಾರತೀಯ ಮೇಲ್ಮೈ ಪ್ರದೇಶ ಇಂಡಿಯನ್ ಪ್ಲೇಟ್ ಪ್ರಧಾನವಾಗಿದೆ SENT-END  ==  [1515 frames] -58.4160 [Ac=-88500.3 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample100.mfc
+Created lattice with 20 nodes / 19 arcs from label file
+SENT-END ದಕ್ಷಿಣ ಏಷ್ಯಾವು ಪ್ರದಕ್ಷಿಣಕಾರವಾಗಿ ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಮಧ್ಯ ಏಷ್ಯಾ ಪೂರ್ವ ಏಷ್ಯಾ ದಕ್ಷಿಣ ಪೂರ್ವ ಏಷ್ಯಾ ಹಾಗು ಹಿಂದು ಮಹಾಸಾಗರದಿಂದ ಆವರಿಸಲ್ಪಟ್ಟಿದೆ SENT-END  ==  [2605 frames] -56.8457 [Ac=-148083.0 LM=0.0] (Act=7.6)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

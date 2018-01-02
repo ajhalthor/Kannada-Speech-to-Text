@@ -1,0 +1,56 @@
+Aligned transcription: ಅಕ್ಕಪಕ್ಕದ_.lab vs ಅಕ್ಕಪಕ್ಕದ_.rec
+ LAB: sil ಅಕ್ಕಪಕ್ಕದ sil 
+ REC: sil ಒಕ್ಕೂಟದ       sil 
+Aligned transcription: ಅತ್ಯದ್ಭುತ_.lab vs ಅತ್ಯದ್ಭುತ_.rec
+ LAB: sil ಅತ್ಯದ್ಭುತ sil 
+ REC: sil ಅಧಿಕೃತ          sil 
+Aligned transcription: ಇಂಡಿಯನ್_.lab vs ಇಂಡಿಯನ್_.rec
+ LAB: sil ಇಂಡಿಯನ್ sil 
+ REC: sil ಇಂಡಿಯಾ    sil 
+Aligned transcription: ಎಂಭತ್ತು_.lab vs ಎಂಭತ್ತು_.rec
+ LAB: sil ಎಂಭತ್ತು sil 
+ REC: sil ಒಂಭತ್ತು sil 
+Aligned transcription: ಎರಡನೆಯ_.lab vs ಎರಡನೆಯ_.rec
+ LAB: sil ಎರಡನೆಯ sil 
+ REC: sil ಎರಡನೇ    sil 
+Aligned transcription: ಒಟ್ಟು_.lab vs ಒಟ್ಟು_.rec
+ LAB: sil ಒಟ್ಟು sil 
+ REC: sil ಒತ್ತು sil 
+Aligned transcription: ಓರೆಗಣ್ಣು_.lab vs ಓರೆಗಣ್ಣು_.rec
+ LAB: sil ಓರೆಗಣ್ಣು       sil 
+ REC: sil ಹೊಳೆಗಳನ್ನು sil 
+Aligned transcription: ಕೊನೆಗೊಂಡ_.lab vs ಕೊನೆಗೊಂಡ_.rec
+ LAB: sil ಕೊನೆಗೊಂಡ    sil 
+ REC: sil ಕೂಡಿಕೊಂಡು sil 
+Aligned transcription: ಕ್ರಿಶನೇ_.lab vs ಕ್ರಿಶನೇ_.rec
+ LAB: sil ಕ್ರಿಶನೇ sil 
+ REC: sil ಘರ್ಷಣೆ    sil 
+Aligned transcription: ಖಂಡದದಕ್ಷಿಣ_.lab vs ಖಂಡದದಕ್ಷಿಣ_.rec
+ LAB: sil ಖಂಡದದಕ್ಷಿಣ sil 
+ REC: sil ಖಂಡನಾಮತ          sil 
+Aligned transcription: ಮೇಲ್ಮೈ_.lab vs ಮೇಲ್ಮೈ_.rec
+ LAB: sil ಮೇಲ್ಮೈ sil 
+ REC: sil ಠೇವಣಿ    sil 
+Aligned transcription: ಮೊಗ್ಗು_.lab vs ಮೊಗ್ಗು_.rec
+ LAB: sil ಮೊಗ್ಗು sil 
+ REC: sil ನಾಲ್ಕು sil 
+Aligned transcription: ಮೌರ್ಯ_.lab vs ಮೌರ್ಯ_.rec
+ LAB: sil ಮೌರ್ಯ       sil 
+ REC: sil ವಾಣಿಜ್ಯ sil 
+Aligned transcription: ರೋರರ್_.lab vs ರೋರರ್_.rec
+ LAB: sil ರೋರರ್ sil 
+ REC: sil ನಾನೂರ sil 
+Aligned transcription: ಹದಿನೇಳನೆಯ_.lab vs ಹದಿನೇಳನೆಯ_.rec
+ LAB: sil ಹದಿನೇಳನೆಯ sil 
+ REC: sil ಹದಿನೇಳನೇ sil 
+Aligned transcription: ಹೊಂದಿದ್ದೂ_.lab vs ಹೊಂದಿದ್ದೂ_.rec
+ LAB: sil ಹೊಂದಿದ್ದೂ sil 
+ REC: sil ಹೊಂದಿದ್ದು sil 
+====================== HTK Results Analysis =======================
+  Date: Sat Jun  3 01:14:05 2017
+  Ref : middle/tri/testref_middle.mlf
+  Rec : middle/tri/recount_middle.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.80 [H=484, S=16, N=500]
+WORD: %Corr=98.93, Acc=98.93 [H=1484, D=0, S=16, I=0, N=1500]
+===================================================================
